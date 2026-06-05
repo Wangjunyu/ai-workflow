@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Secrets
+.env
+*.pem
+*.key
+
+# Runtime
+logs/
+*.log
+
+# macOS
+.DS_Store
+
+# Editors
+.vscode/
+.idea/
