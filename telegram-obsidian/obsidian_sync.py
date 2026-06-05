@@ -30,6 +30,7 @@ class ObsidianSync:
         inbox_header: str = "## INBOX",
         timezone_name: str = "Asia/Shanghai",
         commit_prefix: str = "telegram-journal",
+        git_branch: str = "main",
     ):
         self.repo_path = Path(repo_path).expanduser().resolve()
         self.journal_dir = journal_dir.strip("/")
@@ -37,7 +38,8 @@ class ObsidianSync:
         self.inbox_header = inbox_header
         self.timezone = ZoneInfo(timezone_name)
         self.commit_prefix = commit_prefix
-        self.lock_path = self.repo_path / ".telegram-obsidian-bot.lock"
+        self.git_branch = git_branch
+        self.lock_path = self.repo_path / ".git" / "telegram-obsidian-bot.lock"
 
     def validate_environment(self) -> None:
         if not self.repo_path.exists():
@@ -73,7 +75,8 @@ class ObsidianSync:
         relpath = self._journal_relpath(dt)
         path.parent.mkdir(parents=True, exist_ok=True)
 
-        with open(self.lock_path, "w", encoding="utf-8") as lock_file:
+        self.lock_path.touch(exist_ok=True)
+        with open(self.lock_path, "r+", encoding="utf-8") as lock_file:
             fcntl.flock(lock_file.fileno(), fcntl.LOCK_EX)
             result = self._append_locked(path, relpath, text, dt)
             fcntl.flock(lock_file.fileno(), fcntl.LOCK_UN)
@@ -82,6 +85,7 @@ class ObsidianSync:
     def _append_locked(self, path: Path, relpath: str, text: str, dt: date) -> dict:
         timestamp = self.tz_now().strftime("%H:%M")
         entry_text = self._format_entry(text, timestamp)
+        self._run_git(["pull", "--rebase", "origin", self.git_branch], check=True)
 
         if path.exists():
             original = path.read_text(encoding="utf-8")
@@ -94,33 +98,40 @@ class ObsidianSync:
 
         path.write_text(new_content, encoding="utf-8")
 
-        self._run_git(["add", relpath], check=True)
-        if not self._has_staged_changes(relpath):
-            return {
-                "success": True,
-                "action": action,
-                "path": relpath,
-                "full_content": new_content,
-                "entry_text": entry_text,
-                "push_success": True,
-                "commit_message": "(无变化，未提交)",
-                "date": dt.strftime("%Y-%m-%d"),
-            }
-
-        commit_message = f"{self.commit_prefix}: append to {dt.strftime('%Y-%m-%d')}"
-        self._run_git(["commit", "-m", commit_message], check=True)
-        self._run_git(["push", "origin", "main"], check=True)
-
-        return {
+        result = {
             "success": True,
             "action": action,
             "path": relpath,
             "full_content": new_content,
             "entry_text": entry_text,
-            "push_success": True,
-            "commit_message": commit_message,
+            "push_success": False,
+            "commit_success": False,
+            "local_write_success": True,
+            "commit_message": "(未提交)",
             "date": dt.strftime("%Y-%m-%d"),
+            "error": "",
         }
+
+        self._run_git(["add", relpath], check=True)
+        if not self._has_staged_changes(relpath):
+            result["push_success"] = True
+            result["commit_success"] = True
+            result["commit_message"] = "(无变化，未提交)"
+            return result
+
+        commit_message = f"{self.commit_prefix}: append to {dt.strftime('%Y-%m-%d')}"
+        self._run_git(["commit", "-m", commit_message], check=True)
+        result["commit_success"] = True
+        result["commit_message"] = commit_message
+
+        try:
+            self._run_git(["push", "origin", self.git_branch], check=True)
+            result["push_success"] = True
+        except Exception as exc:
+            result["error"] = str(exc)
+            logger.warning("git push 失败，已保留本地提交: %s", exc)
+
+        return result
 
     def _format_entry(self, text: str, timestamp: str) -> str:
         lines = [line.rstrip() for line in text.splitlines()]

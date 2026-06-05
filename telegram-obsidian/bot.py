@@ -35,6 +35,7 @@ JOURNAL_DIR = os.getenv("JOURNAL_DIR", "Journal").strip() or "Journal"
 JOURNAL_FORMAT = os.getenv("JOURNAL_FORMAT", "%Y-%m-%d").strip() or "%Y-%m-%d"
 INBOX_HEADER = os.getenv("INBOX_HEADER", "## INBOX").strip() or "## INBOX"
 COMMIT_PREFIX = os.getenv("COMMIT_PREFIX", "telegram-journal").strip() or "telegram-journal"
+GIT_BRANCH = os.getenv("GIT_BRANCH", "main").strip() or "main"
 
 ALLOWED_USERS_RAW = os.getenv("ALLOWED_USERS", "").strip()
 ALLOWED_USERS = {
@@ -64,6 +65,7 @@ def get_sync() -> ObsidianSync:
             inbox_header=INBOX_HEADER,
             timezone_name=TIMEZONE_NAME,
             commit_prefix=COMMIT_PREFIX,
+            git_branch=GIT_BRANCH,
         )
     return _sync
 
@@ -177,18 +179,30 @@ def format_result_message(result: dict) -> str:
     date_str = result["date"]
     status_text = "已创建" if result["action"] == "created" else "已追加"
     push_text = "成功" if result["push_success"] else "失败"
+    commit_text = "成功" if result.get("commit_success") else "失败"
+    local_text = "成功" if result.get("local_write_success") else "失败"
     content = result["full_content"]
     if len(content) > 2800:
         content = content[:2800] + "\n... (截断)"
 
-    return (
-        f"✅ {status_text} {date_str} 日记\n"
-        f"文件: {result['path']}\n"
-        f"GitHub push: {push_text}\n"
-        f"Commit: {result.get('commit_message', '(无 commit)')}\n\n"
-        f"新增内容:\n{result['entry_text']}\n\n"
-        f"当天日记内容:\n{content}"
-    )[:4000]
+    lines = [
+        f"✅ {status_text} {date_str} 日记",
+        f"文件: {result['path']}",
+        f"本地写入: {local_text}",
+        f"Git commit: {commit_text}",
+        f"GitHub push: {push_text}",
+        f"Commit: {result.get('commit_message', '(无 commit)')}",
+    ]
+    if result.get("error"):
+        lines.append(f"错误: {result['error']}")
+
+    lines.extend([
+        "",
+        f"新增内容:\n{result['entry_text']}",
+        "",
+        f"当天日记内容:\n{content}",
+    ])
+    return "\n".join(lines)[:4000]
 
 
 def main():
@@ -205,7 +219,7 @@ def main():
         logger.error("❌ 环境检查失败: %s", e)
         sys.exit(1)
 
-    logger.info("仓库: %s | 日记目录: %s | 时区: %s", OBSIDIAN_REPO_PATH, JOURNAL_DIR, TIMEZONE_NAME)
+    logger.info("仓库: %s | 日记目录: %s | 时区: %s | 分支: %s", OBSIDIAN_REPO_PATH, JOURNAL_DIR, TIMEZONE_NAME, GIT_BRANCH)
     logger.info("允许用户: %s", sorted(ALLOWED_USERS))
 
     app = Application.builder().token(BOT_TOKEN).build()

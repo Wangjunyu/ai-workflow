@@ -1,0 +1,16 @@
+[Unit]
+Description=Telegram Obsidian Journal Bot
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+WorkingDirectory=/home/leon/ai-workflow/telegram-obsidian
+Environment=PYTHONUNBUFFERED=1
+ExecStart=/home/leon/ai-workflow/telegram-obsidian/.venv/bin/python /home/leon/ai-workflow/telegram-obsidian/bot.py
+Restart=always
+RestartSec=5
+User=leon
+
+[Install]
+WantedBy=multi-user.target
