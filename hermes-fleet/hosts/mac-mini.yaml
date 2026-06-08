@@ -1,0 +1,14 @@
+name: mac-mini
+description: "Mac mini 常驻服务器，运行多 profile"
+hostname: mac-mini
+ssh_alias: mac-mini
+profiles:
+  - default
+  - bulma
+layers:
+  - base
+  - cli
+  - bot
+env_source: bitwarden
+services:
+  - hermes-gateway-bulma

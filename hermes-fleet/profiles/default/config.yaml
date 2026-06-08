@@ -1,0 +1,33 @@
+# Default Profile 主配置
+#
+# 此文件由 hermes-fleet 渲染生成。
+# 最终会合并 layers: base + cli → 本文件。
+#
+# 修改配置请回到：
+#   ai-workflow/hermes-fleet/
+#   修改对应的 layer 或 profile 文件，然后重新 render + sync。
+
+model:
+  provider: custom:lmu
+  default: gpt-5.4
+  base_url: ""
+  api_key: ""
+
+display:
+  tool_progress: true
+  show_cost: false
+  skin: default
+
+compression:
+  enabled: true
+
+approvals:
+  mode: smart
+
+terminal:
+  backend: local
+  timeout: 300
+
+agent:
+  max_turns: 90
+  tool_use_enforcement: true

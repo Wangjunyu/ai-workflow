@@ -1,0 +1,10 @@
+name: firefly
+description: "远程 Linux 服务器"
+hostname: firefly
+ssh_alias: firefly
+profiles:
+  - default
+layers:
+  - base
+  - cli
+env_source: bitwarden

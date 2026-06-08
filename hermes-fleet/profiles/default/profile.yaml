@@ -1,0 +1,6 @@
+name: default
+description: "个人主 profile，日常 CLI 交互使用"
+machine_role: cli
+layers:
+  - base
+  - cli

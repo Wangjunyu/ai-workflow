@@ -1,0 +1,28 @@
+# Bulma Profile 主配置
+#
+# 飞书 Bot 专用。此文件由 hermes-fleet 渲染生成。
+# 最终合并 layers: base + bot → 本文件。
+
+model:
+  provider: deepseek
+  default: deepseek-v4-pro
+  base_url: ""
+  api_key: ""
+
+display:
+  tool_progress: true
+  show_cost: false
+
+compression:
+  enabled: true
+
+approvals:
+  mode: smart
+
+terminal:
+  backend: local
+  timeout: 300
+
+agent:
+  max_turns: 90
+  tool_use_enforcement: true

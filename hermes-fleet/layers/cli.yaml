@@ -1,0 +1,18 @@
+# CLI 交互型机器层
+# 适用：本地 Mac、日常交互终端
+
+toolsets:
+  - terminal
+  - file
+  - search
+  - web
+  - browser
+  - vision
+  - skills
+  - memory
+  - session_search
+  - delegation
+  - clarify
+  - todo
+  - code_execution
+  - cronjob

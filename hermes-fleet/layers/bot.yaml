@@ -1,0 +1,23 @@
+# Bot / Gateway 运行机器层
+# 适用：跑飞书/Telegram/Discord 等 gateway 的常驻机器
+
+toolsets:
+  - terminal
+  - file
+  - search
+  - web
+  - skills
+  - memory
+  - session_search
+  - messaging
+  - feishu_doc
+  - feishu_drive
+  - clarify
+  - cronjob
+
+# Bot 安全策略
+approvals:
+  mode: smart
+
+# Bot 专用规则
+# 不要在群里擅自发言，DM only 或确认后再发
