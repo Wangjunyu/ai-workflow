@@ -103,14 +103,25 @@ def render_host(host_name: str, staging_dir: Path):
                 shutil.copytree(scripts_src, scripts_dst)
                 print(f"  → {scripts_dst}")
 
-        # 复制 shared skills (deploy to global ~/.hermes/skills/)
+        # 复制 shared skills (deploy to global ~/.hermes/skills/ AND per-profile)
         skills_src = FLEET_ROOT / "shared" / "skills"
         if skills_src.exists() and any(skills_src.iterdir()):
+            # Global skills (for profiles without their own skills dir)
             skills_dst = staging_dir / "shared" / "skills"
             skills_dst.parent.mkdir(parents=True, exist_ok=True)
             if not skills_dst.exists():
                 shutil.copytree(skills_src, skills_dst)
                 print(f"  → {skills_dst}")
+            # Also copy per-profile (for profiles with their own skills dir)
+            profile_skills_dst = profile_dir / "skills"
+            profile_skills_dst.mkdir(parents=True, exist_ok=True)
+            for item in skills_src.iterdir():
+                item_dst = profile_skills_dst / item.name
+                if item.is_dir() and not item_dst.exists():
+                    shutil.copytree(item, item_dst)
+                elif item.is_file():
+                    shutil.copy2(item, item_dst)
+            print(f"  → {profile_skills_dst}")
 
     print()
     print(f"Done. Staging: {staging_dir}")
