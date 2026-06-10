@@ -1,0 +1,12 @@
+name = "researcher"
+description = "研究员 — Kanban 调研 worker，搜索分析输出结构化报告"
+layers = ["cli"]
+required_secrets = []
+
+[distribution]
+default_targets = ["local"]
+
+[runtime_policy]
+sync_sessions = false
+sync_logs = false
+sync_memory = "local_only"

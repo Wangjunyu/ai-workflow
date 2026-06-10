@@ -3,6 +3,10 @@ description: "本地 MacBook，日常 CLI 交互"
 hostname: localhost
 profiles:
   - default
+  - bengbeng
+  - peopleman
+  - researcher
+  - writer
 layers:
   - base
   - cli

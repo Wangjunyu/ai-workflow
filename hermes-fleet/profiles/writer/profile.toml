@@ -1,0 +1,12 @@
+name = "writer"
+description = "写作者 — Kanban 写作 worker，将调研转化为中文文章"
+layers = ["cli"]
+required_secrets = []
+
+[distribution]
+default_targets = ["local"]
+
+[runtime_policy]
+sync_sessions = false
+sync_logs = false
+sync_memory = "local_only"
