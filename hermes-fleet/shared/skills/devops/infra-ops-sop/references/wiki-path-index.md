@@ -216,6 +216,448 @@
 
 ---
 
+## C的旅程 知识库结构 (space_id: 7636692567408544990)
+
+### 根节点
+
+| 节点名 | node_token | has_child |
+|--------|-----------|-----------|
+| 说明 | WaLQw4XKpiJzICkZAnEcJ3S4nQh | false |
+| 2026年6月-7月开学典礼 | Lidkwh1pViusJJk0uY9cjDSWnSb | true |
+| 北京C9见面会-2026年6月 | MHQ5w8a4rid3Yek0s7kcBkkPnlg | true |
+| C9旅程-之前记录-2026年05月06日 | W17Ww2Xo6iX1fFkd6qpc7eAfnmf | false |
+| 面聊招募汇总-2026年3-5月 | TPQcwsFEGiLgPfk0GX6chhuznPe | true |
+| 自我介绍-浚宇 | IkOHwa5YliDRsmkOtlkcpymZnOf | false |
+
+### 2026年6月-7月开学典礼 → 子节点
+
+| 节点名 | node_token | has_child |
+|--------|-----------|-----------|
+| 制作调研问卷文本-2026年06月09日 | VtXawiI53iD8TWkuH5yc5QYlnGh | true |
+| 9.0开学典礼筹备组招募问卷 | P1BEwmXT2iB0prkxjWScfkZmnye | true |
+
+### 开学典礼 → 制作调研问卷文本 → 子节点
+
+| 节点名 | node_token | has_child |
+|--------|-----------|-----------|
+| 9.0开学典礼筹备组招募问卷-V0.1 | ODvSwGSxCiyGwnkRPsPcT2SPnng | false |
+
+### 开学典礼 → 9.0开学典礼筹备组招募问卷 → 子节点
+
+| 节点名 | node_token | has_child |
+|--------|-----------|-----------|
+| 宣发组 | VEdcwmJFciuVWyk043Uc19Nfnwc | false |
+| 总统筹直辖 | XC8hwLs7ni8SZMkeJSpcZR34nre | false |
+
+### 北京C9见面会-2026年6月 → 子节点
+
+| 节点名 | node_token | has_child |
+|--------|-----------|-----------|
+| 北京新生见面会（6.6）任务表 | Adf1wJd62ikQxEkieoec30p3nCc | true |
+| 0606北京新生见面会_总统筹表 | Lz1wwEj1iiHtEyk6dD0cOCpqnXe | false |
+| 0524新生会筹备会议纪要 | F5oVwcDgci8F7akk7r1ccN1zn6c | false |
+| 20260530175649-9.0线下见面会-筹备会3-逐字稿 | XvdEwiLZEibtRykoXvvcpdo7nPf | false |
+| 北京C9.0新生见面会主持稿 | UF00wrvLfioDZHk2zrOcvTninUd | false |
+| C9.0 北京线下新生见面会 · 主持稿 | Mo7YwGk2TigVVOksBfIcDQ9Hnrg | false |
+
+### 北京C9 → 任务表 → 子节点
+
+| 节点名 | node_token | has_child |
+|--------|-----------|-----------|
+| 北京新生见面会（6.6）任务表 | WTPswi2OJi242ekzpCxce8dNnPh | false |
+
+### 面聊招募汇总-2026年3-5月 → 子节点 (21项)
+
+| 节点名 | node_token | has_child |
+|--------|-----------|-----------|
+| 招募-我的推荐 | YaJdwPNZ9ilzeNkVHdJcnSjHnlR | false |
+| 我参与的面聊 | HPU8wya27i61cNkX8x3cvkYpn3e | true |
+| 面聊PickUP | JyZ1w9ezCilug5kYn8ockpmmnge | false |
+| 中台问题库 | K3Q6wqh5kijJiIkRXiHcqeJ0nCg | false |
+| C9发起人见面会.pdf | BpwUwV96niOCE5kZQREcCYVUn4e | false |
+| C9全国招募-发起人培训会0401-专毅.pdf | G5jGwByr7iX3ozkJn1LcOAATnfd | false |
+| 招募海报-2.jpg | U5RUwPDw7irFEnkuocScixBcn0c | false |
+| 招募海报.jpg | Bruuww4aIiWFfAkXh9CcCalGnDe | false |
+| 组织简介.jpg | XajzwWS9Sibo3RkyY9vcEAODnhf | false |
+| 9.0前台面聊话术SOP参考.xlsx | SNqKwbBRsiHAPLkHPf1cc8T4nnb | false |
+| 9.0约聊记录模板_前台-候选人.docx | GSKQw2kOIiWdFfkmgOecnSSZnZg | false |
+| 9.0约聊记录模板.docx | Kb6Uw9WRdizcT9krRPxcG44Knle | false |
+| 面聊-AI相关 | O7qGwBEBMihx9nkGOEVcMpzUnqf | false |
+| 输出: 面聊之旅对我的启发 | SXhUwj9SpihPaLkkeSOcAYSFnbe | false |
+| 输出: 其他内容 | B5JIwq4hzieQmuk5SEPcpN3gnKf | false |
+| 花名 | ESoTwnvg0iiYwVkzXFzcIylPnjd | false |
+| 9.0约聊记录模板_前台-候选人 | LoSuww9cLikpnfkicIRcBW4Sn5f | false |
+| 前台异议处理 | LwhCw3I5hiChEaku0sJcp69anIT | true |
+| 立方有约 | M4GDwHCGYioWS8kbJQ6c2pMOnDd | true |
+| 面聊复盘 | UvULwmDEIiiDMCkUy9GcDCXQnVg | true |
+| c9加油站-0522-发言文字稿 | SiYzwRcPTiM8vnkOiMNcLdpwnrh | false |
+
+### 面聊招募 → 我参与的面聊 → 子节点 (32人)
+
+| 节点名 | node_token | has_child |
+|--------|-----------|-----------|
+| 北京-赫蕊-辅聊-5.13 19:00 | SFZNw02pziNrNAkDMX1coAalnMe | true |
+| 福建-陈缘圆-辅聊-5.13 10:00 | DqnJw27ZwiisKykyNehcnFrUnHg | true |
+| 四川-纪拓-主聊-5.12 16:00 | B0mRwp41AimH7EkItzec8nFanMc | true |
+| 四川-钟银华-辅聊-5.9 12:30 | Vci3w0iXwiI1hKkcgu9cEpBlnp2 | false |
+| 深圳-崔梦梦-辅聊-5.8 20:00 | Rd6GwbL8ciek0bkSkqccyCGUnfe | true |
+| 重庆-黄蓉-辅聊&记录-5.8 16:00 | MHBfwKAV2ifMGxkpWHQcfQqVnff | true |
+| 北京-周泽鑫-主聊-5.8 14:30 | IPj9wAXqHioRTZka4w7cNRV1nLh | false |
+| 福州-徐慧敏-主聊-5.8 13:00 | W25kwDQXZifYstkXTm3cFM9ZnUd | false |
+| 北京-曹瑞芳-主聊-5.7 15:30 Done | UCLbwt27Bii2sskpU4kcvQQ0nFe | true |
+| 北京-田子玄 | XJgxwy6iZiVeWSkG0GucAvdVnUd | false |
+| 杭州-张翼 | CeqowsAfoimtAakFw1ZcJlGgneh | false |
+| 北京-姜沣桓 | I4wQwACvgiVgZmkjSBgcP8eKndc | true |
+| 北京-马群慧 | ETP8wfO8ZisdrZk3Hc6c6x7rnwf | true |
+| 北京-陈岩 | UMmrwrqWFilS84kMM5bcejajnGc | false |
+| 北京-王珂维 | OXyuwuIAKistD7kDt93cOejgncf | false |
+| 北京-于硕鹏 | UAo7wavuXiZTIvkwKhocxymSnnb | false |
+| 北京-王天宇-未参与 | Omc8w4rxgi07tXknMH7cexzxnFe | false |
+| 北京-Tracy-未参与 | LKrgwKCxciUVMCkMEuTckhaynVW | false |
+| 刘红颜 | EFbMwSsM8ixmdpkTQgscOCA5nvb | false |
+| 北京-张雅芃 | SBQGw8sldiSWTRkg4ZZcHgV2nvc | false |
+| 柳菁铧 | NlXjw3x0RiiUijked0qcLeXDnlh | false |
+| 昆明-芶知晏 | VAkGwjxbRialz2kGjsRcUw3bn4D | false |
+| 北京-王珂 | BuZZwfIzCiw1RNkBKZ7cDXGZnCf | false |
+| 北京-王贵锋 | CVOwwefpNiQkjYkol4acUT4LnYV | false |
+| 北京-杨坤 | SmuNw0YNpiZ3d8kbQS0c4pJCnqZ | false |
+| 北京-李奇亮 | B9YlwWCI7iItOlk2lkWc12j5nmf | false |
+| 南宁-潘颖欣-4+2 | JRfawnIAGiffBWkvY8ocR26pnrb | false |
+| 山东-李玉康 | E4RzwgDYhi7GAakeSTHcOHGEnWf | false |
+| 北京-田金荣 | OQ9RwnyvfixjJmkXmGfciBCungh | false |
+| 北京-郭五新 | Y2EDw9kczia8BDk5TnhcD1AjnNd | false |
+| 董董 | Uk4qwS9L5i5MvskV4BkcF6zEnYK | false |
+| C9附件-共享资料 | HkEZwVhLximgx6k3qYmcSsk6nBd | false |
+
+> 8 人 has_child=true，已到 2 层深度上限，未继续展开。
+
+### 面聊招募 → 前台异议处理 → 子节点
+
+| 节点名 | node_token | has_child |
+|--------|-----------|-----------|
+| C9.0前台异议处理小组工作要求 | K8n0w5T9TiptwokgzOCc1Dalnrg | false |
+| 前台（候）异议03沈阳-彭雪-不通过 | ForEw1nxliZaDgkiHnPcKAaDnIg | true |
+| 前台（候）异议10天津-张颖-通过 | W7k2wKJosi75HkkWSnOc2YuSn1e | true |
+| 前台（候）异议12杭州-罗彤-通过 | JpXlwYbOiHWM1k7CNBc5jiHn6b | true |
+| 前台（候）异议04新疆-宋昭霖-通过 | XBlvww553i85BwkXFPZczohanLg | true |
+| 前台（候）异议15-长沙-梁羽佳-不通过 | ZiALwrxfiieGLqk9zhJcYCKTnHg | true |
+| 前台异议V19_深圳-彭林-通过 | MX1FwtTWJiPnyKkFPRTchdhGnFg | true |
+| 前台异议18-南昌-徐佩青-不通过 | BvaZwvtu1i6i5FknTNsczTmBnRb | true |
+| 前台候选人异议22宁波-不通过 | AoY3wAuzeiM3BgkUK1Zcc5btn4d | true |
+| 前台候选人异议23南京-不通过 | ZRUxw6trSiuKGtkwrK5cTOUVnqb | true |
+| 前台候选人异议-最后一单-通过 | EHqywNFyki8Q1BkVEW5cC7Nlnxc | true |
+
+> 10 个 has_child=true，已到 2 层深度上限，未继续展开。
+
+### 面聊招募 → 立方有约 → 子节点
+
+| 节点名 | node_token | has_child |
+|--------|-----------|-----------|
+| 立方有约9.0新 v5 | Oae4wbjE4ivKSCk3DzncoVsBnNe | false |
+| 立方有约9.0新 v5.pdf | RklzwY9iOis8n0kw3Zfc0YPFnOg | false |
+
+### 面聊招募 → 面聊复盘 → 子节点
+
+| 节点名 | node_token | has_child |
+|--------|-----------|-----------|
+| 以聊为镜，见人见己-南通安杰 | XLndwQ3kWiQXjQkiLlCcnrZNnKd | false |
+
+---
+
+## 商业实践 知识库结构 (space_id: 7636997977323670491)
+
+### 根节点
+
+| 节点名 | node_token | has_child |
+|--------|-----------|-----------|
+| OPC教练 | Rk6ZwVfn7ii17KkU5jGcWPaEnkh | true |
+| 我的客户 | Vi5DwspIPibFrqkidLUcl15gn0c | false |
+| 后来之地 | CHoPwx6pjiOeQgkvYuVcgnSMnTb | true |
+| 保险业务 | AXFxwLyHIiVtNpkX24FcjjEKnpd | true |
+| 壹志团队 | X63vw5qvoiNw11kbWVNcVQisnwc | true |
+| 教练之旅 | SYTZwkbZjibh4Fk5oxecOcB9nvh | true |
+| 家庭财务 | KDFqwJZB8i0iiHkpZe5cZmTQnng | true |
+| 归档项目 | I0hbw5rVViWY8Uk34UmcgLYunMc | true |
+| 实体公司 | X3ljwuMs8iTlnOk973KcMHORnKg | true |
+| 社群学习 | GrNEweMtKitobOk6tkhcopr9n8c | true |
+
+### OPC教练 → 子节点
+
+| 节点名 | node_token | has_child |
+|--------|-----------|-----------|
+| 他山之玉 | HeZrwGtgjiyxozk3u13co1XSnMb | true |
+| 画板文档 | YmVtwq1PJiLjZLkdLqrc7YignBf | false |
+| Floria X 浚宇 第二场｜妙记洞察与行动建议 | JGrjwYt3Di5HOqkbMmdc6wjPnUa | false |
+| 2026-05-13｜家庭财务规划与 MVA 对话记录 | VOD4wGrc1iXBtZkvaJUc2PAGn4c | false |
+| 赵立心【IP创业500人峰会】参会手册 副本 | KmL3wWpghi9mmLkDG9gc8eHZnbc | false |
+| 给老客户的一封信 | XXZOwQioFihC38kbMEvcAi3ZnTh | false |
+| 教练课程体系深度分析与完整方案 | XGZxwdRZHioQmlksM6kcfiJ7nff | false |
+| 教练课程体系三模块方案-理论整合版 | NJuQwC7miiDzpKk5GNZcKd31nNk | false |
+| 2026教练培训 | EZ5Yw88jmiqnREkyIBucdkLSnlh | true |
+
+### 后来之地 → 子节点
+
+| 节点名 | node_token | has_child |
+|--------|-----------|-----------|
+| 百万俱乐部 | U6wtwWvvSicQK4kJbZucHcc8nyh | true |
+| 自我探索资料包 | Smu3wdfwviDk88k8T5DcM9y2nAf | false |
+
+### 保险业务 → 子节点
+
+| 节点名 | node_token | has_child |
+|--------|-----------|-----------|
+| 杨立工作安排 | B0o4wuRmniHqrwkRXMNcydebnfe | true |
+| 明亚主管 & 壹志团队 | TxegwjekMiEqf5ksYihctiepnKc | false |
+| TWS分享准备 | JZOVwecxcias4LkAGh7c2DWln3b | true |
+| TWS文稿（2025.12.15） | QV4CwPPvEi6LTjke9Vdc6Ka3nre | false |
+| TWS备课-From马向文-2026年05月08日 | Vk1pwESFSiz0hqkQCWzcv96Xnah | false |
+| 续期扣费追踪 | JAdSwOgauiFDfKkLb3cc0qr9nXf | false |
+| 业务-按月出单情况.xlsx | TUbrwxU0giKMQnkB9Aac0J1rn9b | false |
+| 他人培训 | Wq6zw8W3Hip5ZXkY3u4cJwsWnTf | false |
+| 保险经纪人优势解析 | PLfxwbCbsiIFEmksEyJcSHHbn3g | false |
+
+### 壹志团队 → 子节点
+
+| 节点名 | node_token | has_child |
+|--------|-----------|-----------|
+| 外购药专题内训 | KDOEwm5l4ihr9DkYf29clC6vn7e | false |
+| 过往归档 | NHlIwtEOhiJwufksCewcE5snnDg | true |
+
+### 教练之旅 → 子节点 (15项)
+
+| 节点名 | node_token | has_child |
+|--------|-----------|-----------|
+| 2026年05月06日 浚宇教练督导 教练康康 客户颜新秀 | JepIwRR7XiKHCbkuyBEc3cYHnzd | false |
+| 教练对话-客户康康-教练浚宇 2026年5月9日 | SYf0wXTc0iXBK7kGvZ8cgNbjnLb | false |
+| 学习小组实践2025-2026 | HlXtwdg4nifXLrkp7JJcGR7Yn8b | true |
+| 学习培训记录和计划 | LolNwWXgsijj7NkHE8XcvqRAnyh | true |
+| 教练AI场景 | Rp8UwvhvLiiU9Qk5khWc41gWn5e | false |
+| 教练记录 | EwkYwQ4fdiMD0nkCAJUcwLJwnMc | false |
+| 我被教练 | J6bPwCMMNiwgMSksoKScW9OOnLd | false |
+| 教练客户说明 | MvA0w0wEiiKSUwkHlcwcHyOGnNe | true |
+| 教练合约模板 – 个人教练 | TC21wMl8zijhmfkCFQzcYVOQnjf | false |
+| 教练小时数记录表.xlsx | A0LIwKJeXisgCykhk60c2Ridn9f | false |
+| Harry 畅聊 AI｜妙记洞察与行动建议 | MNm2w4op5iPgDCkgfZkcEEcinfA | false |
+| ICF教练商业化实践指南_明哥.pdf | XJ2xwpyO2i2QtnkUOwIchblynad | false |
+| MCC大师录音拆解学习 | Q7gcwTfHKi0O7kkWJRicFIEVnBe | true |
+| 浚宇-介绍-v0.3-2026年05月29日.pptx | WLo7wnydEicXKXkE9ERcSoq7nxe | false |
+| PCC笔试 | W3yywChp5i72n6k1K28cAUpPnMg | true |
+
+### 家庭财务 → 子节点 (13项)
+
+| 节点名 | node_token | has_child |
+|--------|-----------|-----------|
+| 模板汇总 | LFNRwVCTXi95MSkMZbNcESt6nVc | true |
+| 收入整理.xlsx | AmlzwBiMji9FHXkV8hFcWvIjndF | false |
+| 收入支出表.xlsx | XCSxw0LroiVkVMkYD1pcvfylnwn | false |
+| 搞钱研究社 | QxR3wO0TsiEbVDkt0pScyYRnnjC | false |
+| 业务-展示-财务规划-风险部分说明-打印简版 | MmO0wTFuSi0vzokvREqcCLWInHb | false |
+| 业务-展示-财务规划-风险部分说明 | YdFEw8P0wiVEuQkVe72cz6opn7g | false |
+| 业务-展示-财务规划-一页纸版本 | PVIrwJukGi2htskGgaDcI7ysnKn | false |
+| 业务开展思路 | Gdccw5xgqiDcvRkKfoWcs7pynTh | false |
+| 业务-展示-财务规划-风险部分说明-PDF | XvM3w0fesidYZKkvE1hczmJQnbg | false |
+| 业务-展示-财务规划-一页纸版本-PDF | Cw8MwWF3JiPSc9klTN5chOiDnhh | false |
+| 业务-方案展示与反馈汇总 | Ma92wZ6c3im8ylkJlHQc2blzn1f | false |
+| 客户-家庭财务规划的话题切入 | Bj5SwX4KxiIZVjkILlFckmNSnLg | false |
+| 客户-沟通案例集 | T6EKwChxwitSZQkZs52cMBmAnVh | false |
+
+### 归档项目 → 子节点
+
+| 节点名 | node_token | has_child |
+|--------|-----------|-----------|
+| 彭慧琼的会富项目归档 | OD0TwEm2eilGlYkH3BCcC5h3nIe | true |
+
+### 实体公司 → 子节点
+
+| 节点名 | node_token | has_child |
+|--------|-----------|-----------|
+| 早日退休科技有限公司-相关材料 | CdiTw3q2li64O8kTinLcohbxnxb | false |
+
+### 社群学习 → 子节点
+
+| 节点名 | node_token | has_child |
+|--------|-----------|-----------|
+| 开智学习 | Fw75w2oyOijSzVkppKuck1bHn7g | true |
+
+> 商业实践 has_child=true 的深度2节点（共14个）标记待后续增量扫描展开。
+
+---
+
+## 家庭合伙人 知识库结构 (space_id: 7636688541917056191)
+
+### 根节点
+
+| 节点名 | node_token | has_child |
+|--------|-----------|-----------|
+| 家庭 | X9Q8wrXrii98fNkhiU9cxm6Tn3f | true |
+| 2026家庭报告 | MjfSwB0xOipw7Qkl4qnc3Kynnob | true |
+| 2026相关领域 | FxUcwWHlPilY45kT8CJcGAkvn9c | true |
+| 2026年5月报告 | ZY1xwFmBBi51i1kVZJIcV8UHndJ | false |
+
+### 家庭 → 子节点
+
+| 节点名 | node_token | has_child |
+|--------|-----------|-----------|
+| 一五计划制定进展 | J8kbwoGVUi1rgck6iDQcPkPrndc | false |
+| 2026复盘 | TTqBw1eTPiua20kkagrcn1ffnoe | false |
+| 向爱人看齐 | EaqDwIWLliNpUXk3PDUcAXN8nFd | false |
+| 王孟瑜成长记录 | JwWOwjcCMimScRk4wMYcafMUn8f | true |
+| 关于父母 | XzTSw6wZgiXHJukQjoNcrQMhnde | false |
+| 破冰行动 | RYG9waNZziLzSMkCsamcJ6E9nHS | true |
+
+### 2026家庭报告 → 子节点
+
+| 节点名 | node_token | has_child |
+|--------|-----------|-----------|
+| 2025及之前的家庭报告 | W4mxwKtIriAM58kxVmWcEv0Wn8n | true |
+| 2027待办想法 | Z7Pww7qe3iFy3jkI76vciyMYnYd | false |
+| 浚宇2026记录 | RYzGwr1UCiV08XkR8FtcXmkLnJd | true |
+| 家庭财务规划 | RoK4wPMp3iYJz7kaEijcVpFInzY | true |
+
+### 2026相关领域 → 子节点 (13项)
+
+| 节点名 | node_token | has_child |
+|--------|-----------|-----------|
+| 待听内容清单 | BVtcw1VHFiafYlkC4Mpcd0eLnYe | false |
+| 认知升级 | EzbhwOBOmiBIlmk3m8Rc8J53ned | false |
+| 自我介绍-浚宇 | KlRqwpcV0izUgWkcpqgcWG0Rnfh | true |
+| 做饭-浚宇 | S21qwkTNaiTcPKk8NsEcak88nnh | false |
+| 运动健身 与 精力管理 相关 | KELwwSvjhi4j1vkhMRUcHLxnneg | false |
+| 家务处理 & 滴答清单的后续处理ing | HaWzwF9rLiDGAukOEVZc9OM9nNg | false |
+| 2026 端午之行的计划安排 | HemLw15DjirmXPkoBkWcf2EdnXh | false |
+| 明心见性课程复盘-2026-04-13 | SYkHwV82BiwhtkkCW4vctqXTncf | false |
+| 时间记录与分析 | NgNfwIB4Vi8Y4wkukywcw2bwnRc | false |
+| 各项目之间的关系图.xlsx | U0hGwX8YZi4psOkzHvscMyJQnce | false |
+| 我的2026.xlsx | Vs0zw8gHViDb0akr2PFcvCcJn8f | false |
+| 生活经营复盘讨论脉络 | PWXCwxWYHiHKGWkKD6nc2ffUnDb | false |
+| 主线校准台：3天真实反馈实验 | VIM1w4KMpiwqh3k8YqEcQQ3Mnlh | false |
+
+> 家庭合伙人 has_child=true 的深度2节点（共6个）标记待后续增量扫描展开。
+
+---
+
+## AI宝典 知识库结构 (space_id: 7636675042419412190)
+
+### 根节点
+
+| 节点名 | node_token | has_child |
+|--------|-----------|-----------|
+| AI全景图 | EDYuwxiu6icbxMkbgpec9DgqnVc | false |
+| AI工作流 | I6pcwJYkTint9PkBU0WcGFKZnwe | true |
+| AI待完善工作流 以及 基础设施 以及可用资源 | U6wjw5Qaei3py2koDtwcpPkmnsh | true |
+| AI日志&飞书日志 | TwsEw6GZfiEyh0kByxvcX5L3n3e | true |
+| AI应用 | CdSPwCXmxilFOwkJfnuckpEynud | false |
+| Harness - 2026年05月08日 From 马向文 | LN15wZ7C3iRxuHk2PqkcOnUgn6n | false |
+| AI探索未完待续的部分 | BEpAwckneiauAckY2uecdCcen1g | false |
+| 已归档-被入侵旧服务器资料救援与迁移方案 | NmJ2wBbZai0ahokIunZcP9EBnTg | false |
+
+### AI工作流 → 子节点 (12项)
+
+| 节点名 | node_token | has_child |
+|--------|-----------|-----------|
+| AI工作流索引 | HYzLwxSRgiGbTRkOZZgco20jneg | false |
+| 服务器 tmux 与终端启动配置 2026-05-09 | GdUjwrrHHioBpak2RvwcNXBrnRd | false |
+| AI工作流系统 MVA | CiFiwYYSwiAU2qkpyD7cL6KMn0g | false |
+| 服务器健康检查报告 - 2026-05-09 | Ztdpwk22ni7d13k6URxcYJW5nZc | false |
+| [已完成] 百万俱乐部：财务长期目标整理与写入 | SE7hwljLBiMIOhkrqMgc4mMenfe | false |
+| [已完成] Hermes 每日任务总结飞书通知配置 | R7UDwr8j5iRw24kvxd3cfX9MnXf | false |
+| SOP / Playbook | RPEjwcyGSiQZZSkjk2XcL4ABnyI | true |
+| 每日总结复盘系统设计与原型验证 | V97swRTP7i0a9nkPorPcsYxfnJb | true |
+| [已完成] Happy 手机端本地通信环境升级与清理 | MJjsw26vciUQPFkcERbcUYiSnJd | false |
+| Hermes 接入飞书 | R9J1w1EBgixKZkkqjq1cLrYLnVd | false |
+| Happy Coder 使用 Hermes 的可行性验证 | ShUyw5TPUirHa7kuNwAc6eDtnRh | false |
+| 自媒体输出工作流 · 口述录音→公众号文章 | B4BLwuqediIfeoksBEWc2Q9Tn0d | false |
+
+### AI待完善工作流 → 子节点
+
+| 节点名 | node_token | has_child |
+|--------|-----------|-----------|
+| 各类存储空间处理 | Z8XkwhIE3i0OeBkYfmTcsAEHn9e | false |
+| AI资源的说明 | KKwiw2N98i16B6kDwVacBL0HnEf | true |
+
+### AI日志&飞书日志 → 子节点
+
+| 节点名 | node_token | has_child |
+|--------|-----------|-----------|
+| 飞书管理和应用 | LKtpwbUxXiVTdqkDE3BcHAshndh | false |
+
+---
+
+## 自媒体输出 知识库结构 (space_id: 7636778878492511180)
+
+### 根节点 (全部为叶子节点，无子节点)
+
+| 节点名 | node_token | has_child |
+|--------|-----------|-----------|
+| 首页 | EhQCwtr95ieCEpkqWzrcQfdcn0g | false |
+| [已打印]自媒体Idea汇总-临时-2026-02-23 | JIS5wS4aKi4JHwkOAYvchiZcnVe | false |
+| 凌晨3点，我想对你说 - 新手爸爸崩溃夜 | FpQGwvpbSiMTyPkyjH7cxbphnFb | false |
+| 宝宝出生4个月，我被"家庭"彻底困住 | AjYlwjT2pijdV6kISr4cq3fXnhg | false |
+| 断夜奶那晚，我一个人带娃，孩子自己睡着了 (1) | IKaVw0KW6iCz31k8EZkcfhFdnPe | false |
+| 断夜奶那晚，我一个人带娃，孩子自己睡着了 (2) | Zo6AwnXPki32gSkg1EicCADEn7q | false |
+| 自媒体输出工作流 · 口述录音→公众号文章 | UKmPw6gXjij66Xkv80kcwxnIngg | false |
+| AI部分参考 | RpVzwZBBvi5dohkAptccRbq6n6f | false |
+| 输出相关内容 | LHACw8m1TiYMT1kjG1hcopdAnac | false |
+
+> 该知识库无 has_child=true 节点，9 个全部为叶子节点。
+
+---
+
+## 浚宇的分享-草稿 知识库结构 (space_id: 7641775683433565373)
+
+### 根节点
+
+| 节点名 | node_token | has_child |
+|--------|-----------|-----------|
+| 浚宇的玻璃花园 | Hie9wFKu0iw4kek6kKdctvnJnCd | true |
+| 让努力形成复利：个人杠杆系统 5 讲 | BqiBwKBlEilDyukvwjOceFNKnfC | true |
+| 教练领域能量概念的跨学科深度研究 | Zt8BwIXtoiZE5Jkf87zcL2WdnAd | false |
+| 高知人群行动瘫痪-教练解决路径 | MaAMwCzUAiR3ockXJ8ecO3aBnbg | false |
+| act-深度调研-发展脉络与实证全景 | LgMww0NPti95cokLn6QcdUZRnCe | false |
+| 科学主义与内在探索-深度分析-v2 | BRetwBbaDiSnxqkQSZ0coeRnnMV | false |
+
+### 浚宇的玻璃花园 → 子节点
+
+| 节点名 | node_token | has_child |
+|--------|-----------|-----------|
+| 心智信念 | D6kLwikq4iN0E8kmNclc0DkTnyb | false |
+| 人生课题 | CkClwwSvmiQMGvk7GgOcwDEHn6b | false |
+| AI时代 | WkqEwkp8XiJesUkWNRUcQiRnnUd | false |
+| 什么是杠杆? | LSxdwqcfYiHeGXkm2Pnc3OTonRc | false |
+| 经典导读 | GWjYwXLZHiwA6kkwlBkcgwM8ndD | false |
+| 三表的故事 | Jvy9wCrBPirqyfkjcAKcw0Wrnqh | false |
+| 对话脉络：从最新妙记到个人杠杆系统 | Isllw1o1Fiv1ETkr1pbcBnCinfg | true |
+
+### 让努力形成复利：个人杠杆系统 5 讲 → 子节点
+
+| 节点名 | node_token | has_child |
+|--------|-----------|-----------|
+| 01｜你不是不会用 AI，而是还没有把 AI 放进真实工作流 | DkbKwJ4TOiDArHk9jZ5cCz3tnrg | false |
+| 02｜表达不是为了流量，而是为了让正确的人找到你 | AZukwDKsdi052Vkd7szcDWGinuc | false |
+| 03｜认识很多人，不等于拥有一个能托举你的场域 | XbXSwrQJQiyR99kHeAwcgm23nwT | false |
+| 04｜钱真正重要的地方，是它给你选择权 | TxzpwuKEEiJbM9kXlE8c8KKunub | false |
+| 05｜如果每次交付都从零开始，你的价值会被低估 | YnNDwnfyyikt9lkSQ0lcq2Bvnvg | false |
+
+---
+
+## 人生成长杠杆系统 知识库结构 (space_id: 7641892655059995853)
+
+### 根节点
+
+| 节点名 | node_token | has_child |
+|--------|-----------|-----------|
+| 你不是不够努力，只是还没有让努力互相放大 | HA4TwZRnMiQti3kf18Bcn7VYn2e | true |
+| 从优秀到卓越：人生成长杠杆系统 | QBEZwnYaRiJVQekgUOYco3dEnPD | false |
+
+### 你不是不够努力... → 子节点
+
+| 节点名 | node_token | has_child |
+|--------|-----------|-----------|
+| 3 分钟自测：你现在卡在哪个个人杠杆上？ | MoUTwkJjMilvUUkOm7ucI8j1nqq | false |
+| 从这里开始：让努力互相放大的个人杠杆系统 | QfxRwGE5xi4OxfkXex4cB1GDnje | false |
+
+---
+
 ## 常用目标路径速查
 
 ### 妙记 → 知识库同步
@@ -239,9 +681,14 @@
 - [ ] 康康 > 会议记录 (has_child=true，已知深层节点)
 - [ ] 丁雅华 > 教练交付-沟通记录 (has_child=true)
 - [ ] 朋友们 下 7 个 has_child=true 的人名（李博、Erin艾琳、佳佳、朱训兰、陈妮、余了了、陈悦）— 待 cron 增量扫描逐步展开
-- [ ] 其他知识库的结构（按需补充）
+- [ ] C的旅程 > 我参与的面聊 下 8 个 has_child=true 面聊记录 — 待展开
+- [ ] C的旅程 > 前台异议处理 下 10 个 has_child=true — 待展开
+- [ ] 商业实践 深度2节点（14个 has_child=true）— 待展开
+- [ ] 家庭合伙人 深度2节点（6个 has_child=true）— 待展开
+- [ ] AI宝典 深度2节点（3个 has_child=true）：SOP/Playbook、每日总结复盘系统、AI资源的说明 — 待展开
+- [ ] 浚宇的分享-草稿 深度2节点：对话脉络 → 待展开
 - [ ] 各人物目录下的「会议记录」路径（待发现后完善速查表）
 
 ---
 
-*最后更新: 2026-06-11 — 全量扫描完成：客户相关 9 人（2层深度）+ 朋友们 38 人（1层）*
+*最后更新: 2026-06-11 — 全量扫描 8 个知识库完成：人（2层深度）+ 7 知识库（C的旅程/商业实践/家庭合伙人/AI宝典 2层深度，自媒体输出/浚宇的分享-草稿/人生成长杠杆系统 1-2层深度）。总计 242 节点，35 次 lark-cli 调用。*
