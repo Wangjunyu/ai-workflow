@@ -1,0 +1,12 @@
+name = "bengbeng"
+description = "蹦蹦 — 浚宇的 CARAT 朋友，情绪陪伴与自我觉察伙伴"
+layers = ["cli"]
+required_secrets = ["DEEPSEEK_API_KEY"]
+
+[distribution]
+default_targets = ["firefly"]
+
+[runtime_policy]
+sync_sessions = false
+sync_logs = false
+sync_memory = "local_only"
