@@ -133,6 +133,24 @@
 | 康康-教练服务协议-协议版.pdf | X2ldwmbcMiRDkSklDgIciyUmn0b | false |
 | 康康进展跟踪 | Ix4lwL6jri1EFdkG6xmcxE2WnLJ | false |
 
+### 康康 → 交付清单 → 教练服务协议-协议版 → 子节点
+
+| 节点名 | node_token | has_child |
+|--------|-----------|-----------|
+| 康康协议修改说明 | BayzwZ0qzi9l9RkrRHtcOPJnn0g | false |
+
+### 康康 → 交付清单 → 会议记录 → 子节点
+
+| 节点名 | node_token | has_child |
+|--------|-----------|-----------|
+| 2026.6.10 康康-3个月陪跑目标沟通 | UQ0XwGZhPiXiEjkJjZccvslynje | false |
+| 2026-06-03 康康 教练协议沟通 | YVSRwIG1GioxRIkJmQ4cwT6anCb | false |
+| 2026-06-01 康康-教练&财务沟通 | EIg7wIEbIiFOCekLxgicCFpInZg | false |
+| 2026-05-24 学了教练之后，你有哪些变化和顾虑？ | RzICwetckiIPYKkKBOLcVnkhn1c | false |
+| 2026-05-23 康康-财务规划交流 | Xi0RwtXotiWviKk4zgWcAUbgn1f | false |
+| 2026-05-14 康康-交流AI&教练&财务规划 | D99ywSSlfitOLNktpc8c3Yflnrb | false |
+| 2026-05-09 教练对话-客户康康-教练浚宇 | EdshwfxdJiWNf5kjvFncSZbmn3b | false |
+
 ---
 
 ### 丁雅华 → 子节点
@@ -147,6 +165,12 @@
 |--------|-----------|-----------|
 | 雅华-教练服务协议-已结束 | F8W6wTagSi0UGtkJcbzcykitnCf | false |
 | **丁雅华-教练交付-沟通记录** | Vwc5wRFVhiTGuxkEIFncP60qneh | **true** |
+
+### 丁雅华 → 交付清单 → 教练交付-沟通记录 → 子节点
+
+| 节点名 | node_token | has_child |
+|--------|-----------|-----------|
+| 智能纪要：雅华 教练对话 2026年5月9日 | Z165wvWoWi7OQAkFOwWcPVRjnPe | false |
 
 ---
 
@@ -169,7 +193,7 @@
 
 ---
 
-### 朋友们 → 子节点 (38人，仅1层)
+### 朋友们 → 子节点 (38人)
 
 | 节点名 | node_token | has_child |
 |--------|-----------|-----------|
@@ -212,7 +236,56 @@
 | 王永澄 | MWe9weyxeib07BkKKO7cZ0hPnod | false |
 | **陈悦** | KkqpwlHGcihkT0kIM52cTGu1nMf | **true** |
 
-> 7 人 has_child=true（加粗标记），未递归深入。后续增量扫描会逐步展开。
+### 朋友们 → 李博 → 子节点
+
+| 节点名 | node_token | has_child |
+|--------|-----------|-----------|
+| Tapon: A Manifesto | Lo4OwfEVIiBBJTkkslgcRYaznYg | false |
+| Tapon许愿池 From 浚宇 | GByqwZXqliY54IkpyjPc7WcHnNd | false |
+| tapon-shiyong-tiyan-ji-gongzuoliu-guihua | ENGyw6nNfiQCVFkf7dwcweYfnwf | false |
+
+### 朋友们 → Erin艾琳 → 子节点
+
+| 节点名 | node_token | has_child |
+|--------|-----------|-----------|
+| Erin-后来之地讨论 | Es36wv7hMi0mVBk9tt1cbBZxnJg | false |
+| Erin-教练服务协议 | THfUwOfRXibZewkHaSfcS01vnGf | false |
+
+### 朋友们 → 佳佳 → 子节点
+
+| 节点名 | node_token | has_child |
+|--------|-----------|-----------|
+| 佳佳-教练服务协议 | GEQVwcxSnitZ35kMDU3c4rkMngf | false |
+
+### 朋友们 → 朱训兰 → 子节点
+
+| 节点名 | node_token | has_child |
+|--------|-----------|-----------|
+| 除了企业中高管，我还想支持这样的伙伴 | IZpcw92I5iux3okRAcpcXnawnvc | false |
+
+### 朋友们 → 陈妮 → 子节点
+
+| 节点名 | node_token | has_child |
+|--------|-----------|-----------|
+| Sammy需求沟通复盘与后续服务设计 | M3fSwuOvViyD4ekh5HdcP2Hvn2c | false |
+| Sammy-需求沟通 | AEBHw9qdGiaOsxkiTMVc6f3GnRg | false |
+
+### 朋友们 → 余了了 → 子节点
+
+| 节点名 | node_token | has_child |
+|--------|-----------|-----------|
+| 智能纪要：浚宇与用户探讨教练合作事宜 2026年5月15日 | GCfxwrjUCihjaykfBXOc59Evn4g | false |
+
+### 朋友们 → 陈悦 → 子节点
+
+| 节点名 | node_token | has_child |
+|--------|-----------|-----------|
+| 沈磊保单利益整理表20251225.xlsx | QJltwzh7bitRRHkbVYZcxacTnfV | false |
+| 陈悦家庭财务规划-风险分析 | OGoDwKS9MiKUyzkYhAEclWx1nNb | false |
+| 卡卡聊保险需求 | NXcVwWUtQithgykyF37csqIWn1g | false |
+| 卡卡沟通小结-微信版-2026-06-05 | DE8dwsWvXiamS6kYbFdciJSrn51 | false |
+
+> 7 人 has_child=true（加粗标记），已全部展开到叶子节点。每日子节点全部 has_child=false，后续无需重复枚举。
 
 ---
 
@@ -671,16 +744,16 @@
 | 人名 | 路径 | node_token（待确认子节点） |
 |------|------|--------------------------|
 | 康康 | 康康交付文档清单 > 会议记录 | D9dLwrEP2iX8NfkcwEgcIFebnDe ✓ |
-| 丁雅华 | 雅华交付清单 > 丁雅华-教练交付-沟通记录 | Vwc5wRFVhiTGuxkEIFncP60qneh（has_child=true，待展开） |
+| 丁雅华 | 雅华交付清单 > 丁雅华-教练交付-沟通记录 | Vwc5wRFVhiTGuxkEIFncP60qneh ✓ |
 
 ---
 
 ## 待补充
 
-- [ ] 康康 > 教练服务协议-协议版 (has_child=true)
-- [ ] 康康 > 会议记录 (has_child=true，已知深层节点)
-- [ ] 丁雅华 > 教练交付-沟通记录 (has_child=true)
-- [ ] 朋友们 下 7 个 has_child=true 的人名（李博、Erin艾琳、佳佳、朱训兰、陈妮、余了了、陈悦）— 待 cron 增量扫描逐步展开
+- [x] ~~康康 > 教练服务协议-协议版 (has_child=true)~~ ✓ 2026-06-11 — 1 个叶子节点（康康协议修改说明）
+- [x] ~~康康 > 会议记录 (has_child=true)~~ ✓ 2026-06-11 — 7 个叶子节点
+- [x] ~~丁雅华 > 教练交付-沟通记录 (has_child=true)~~ ✓ 2026-06-11 — 1 个叶子节点
+- [x] ~~朋友们 下 7 个 has_child=true 的人名（李博、Erin艾琳、佳佳、朱训兰、陈妮、余了了、陈悦）~~ ✓ 2026-06-11 — 全部展开到叶子节点
 - [ ] C的旅程 > 我参与的面聊 下 8 个 has_child=true 面聊记录 — 待展开
 - [ ] C的旅程 > 前台异议处理 下 10 个 has_child=true — 待展开
 - [ ] 商业实践 深度2节点（14个 has_child=true）— 待展开
@@ -1293,4 +1366,4 @@
 *云盘结构最后更新: 2026-06-11*
 ---
 
-*最后更新: 2026-06-11 — 全量扫描 8 个知识库 + 云盘全量扫描（3层深度完整 + 4-6层 spot-check）。总计 441 节点，99 次 lark-cli 调用。*
+*最后更新: 2026-06-11 — 增量扫描：+23 节点（康康协议版+1、会议记录+7、丁雅华沟通记录+1、朋友们 7 人展开+14）。总计 464 节点。*
