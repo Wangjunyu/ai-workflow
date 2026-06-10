@@ -4,6 +4,7 @@ hostname: firefly
 ssh_alias: firefly
 profiles:
   - default
+  - peopleman
 layers:
   - base
   - cli

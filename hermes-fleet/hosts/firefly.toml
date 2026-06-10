@@ -1,0 +1,7 @@
+name = "firefly"
+groups = ["server"]
+profiles = ["default", "peopleman"]
+target_root = "/home/leon/.hermes/profiles"
+
+[overrides.default.terminal]
+cwd = "/home/leon"

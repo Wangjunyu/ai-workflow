@@ -1,0 +1,27 @@
+[model]
+provider = "deepseek"
+default = "deepseek-v4-pro"
+base_url = "https://api.deepseek.com/v1"
+
+[fallback_providers]
+# deepseek-v4-flash 作为降级
+
+[agent]
+max_turns = 60
+gateway_timeout = 900
+
+[terminal]
+backend = "local"
+cwd = "/Users/leon/Desktop/Leon-Obsidian/Leon"  # macOS 本地路径; firefly 上 override 为 /home/leon
+
+[display]
+compact = true
+personality = "concise"
+show_reasoning = false
+streaming = true
+
+[memory]
+provider = "mem0"
+
+[skills]
+external_dirs = ["/Users/leon/.hermes/skills"]  # macOS; firefly 上 override 为 /home/leon/.hermes/skills
