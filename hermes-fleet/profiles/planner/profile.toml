@@ -1,0 +1,12 @@
+name = "planner"
+description = "财务规划师 — 保险方案呈现，生老病死四维度客户视角金额测算"
+layers = ["cli", "bot"]
+required_secrets = ["DEEPSEEK_API_KEY", "FEISHU_APP_ID", "FEISHU_APP_SECRET"]
+
+[distribution]
+default_targets = ["firefly"]
+
+[runtime_policy]
+sync_sessions = false
+sync_logs = false
+sync_memory = "local_only"

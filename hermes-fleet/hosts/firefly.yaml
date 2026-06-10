@@ -5,6 +5,7 @@ ssh_alias: firefly
 profiles:
   - default
   - bengbeng
+  - planner
   - peopleman
 layers:
   - base
