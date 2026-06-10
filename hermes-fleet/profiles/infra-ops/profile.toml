@@ -1,0 +1,12 @@
+name = "infra-ops"
+description = "基础设施运维中枢 — 数据同步、跨平台存取、profile管理、网络配置"
+layers = ["cli"]
+required_secrets = ["DEEPSEEK_API_KEY"]
+
+[distribution]
+default_targets = ["firefly"]
+
+[runtime_policy]
+sync_sessions = false
+sync_logs = false
+sync_memory = "local_only"

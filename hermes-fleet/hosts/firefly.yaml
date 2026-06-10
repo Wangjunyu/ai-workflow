@@ -5,6 +5,7 @@ ssh_alias: firefly
 profiles:
   - default
   - bengbeng
+  - infra-ops
   - planner
   - peopleman
   - tws-coach
