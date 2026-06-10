@@ -65,6 +65,13 @@ sync_host() {
             mkdir -p "$HOME/.hermes/scripts"
             rsync -av "$staging/shared/scripts/" "$HOME/.hermes/scripts/"
         fi
+
+        # shared skills → global ~/.hermes/skills/
+        if [ -d "$staging/shared/skills" ]; then
+            mkdir -p "$HOME/.hermes/skills"
+            rsync -av "$staging/shared/skills/" "$HOME/.hermes/skills/"
+            echo "  → shared skills deployed to ~/.hermes/skills/"
+        fi
     else
         # Remote deploy via rsync over SSH (aliases from ~/.ssh/config)
         echo "→ Deploying to remote: $host..."
@@ -83,6 +90,13 @@ sync_host() {
 
         if [ -d "$staging/shared/scripts" ]; then
             rsync -avz "$staging/shared/scripts/" "$host:~/.hermes/scripts/"
+        fi
+
+        # shared skills → global ~/.hermes/skills/
+        if [ -d "$staging/shared/skills" ]; then
+            ssh "$host" "mkdir -p ~/.hermes/skills"
+            rsync -avz "$staging/shared/skills/" "$host:~/.hermes/skills/"
+            echo "  → shared skills deployed to $host:~/.hermes/skills/"
         fi
     fi
 
