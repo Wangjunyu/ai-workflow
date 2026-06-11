@@ -1,4 +1,4 @@
-name = "peopleman"
+name = "p-people"
 description = "浚宇的人脉管家 — 管理 Obsidian People 目录、追踪人际交互、从 Journal 和飞书妙记提取关系信息"
 layers = ["bot"]
 required_secrets = ["DEEPSEEK_API_KEY"]

@@ -1,6 +1,6 @@
 name = "firefly"
 groups = ["server"]
-profiles = ["default", "peopleman"]
+profiles = ["default", "biz-intake", "biz-planner", "biz-tws", "client-bulma", "f-baby_love", "p-infra", "p-people"]
 target_root = "/home/leon/.hermes/profiles"
 
 [overrides.default.terminal]

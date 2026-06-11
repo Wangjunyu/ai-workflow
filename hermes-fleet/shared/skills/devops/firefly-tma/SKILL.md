@@ -52,9 +52,9 @@ When pressing `n`, tma scans `~/.hermes/profiles/` and presents:
 ```
 New session:
   1) default (Hermes)
-  2) bengbeng (Hermes)
-  3) planner (Hermes)
-  4) peopleman (Hermes)
+  2) biz-intake (Hermes)
+  3) biz-planner (Hermes)
+  4) f-baby_love (Hermes)
   5) Others (plain shell)
 Choice:
 ```

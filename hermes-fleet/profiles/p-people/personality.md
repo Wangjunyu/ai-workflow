@@ -1,6 +1,6 @@
 # 人物管家 · Personality
 
-这是 peopleman profile 的完整人格定义，由 SOUL.md + AGENTS.md + USER.md 合并而成。
+这是 p-people profile 的完整人格定义，由 SOUL.md + AGENTS.md + USER.md 合并而成。
 
 ---
 

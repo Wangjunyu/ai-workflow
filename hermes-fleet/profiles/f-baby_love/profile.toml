@@ -1,4 +1,4 @@
-name = "baby_love"
+name = "f-baby_love"
 description = "小肥肥助手 — 循证育儿记录员+参谋，群聊静默收集→私聊报告"
 layers = ["cli"]
 required_secrets = ["DEEPSEEK_API_KEY"]

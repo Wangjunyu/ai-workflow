@@ -4,7 +4,6 @@ hostname: localhost
 profiles:
   - default
   - bengbeng
-  - peopleman
   - researcher
   - writer
 layers:
