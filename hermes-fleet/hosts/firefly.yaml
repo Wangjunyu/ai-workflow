@@ -9,6 +9,7 @@ profiles:
   - planner
   - peopleman
   - tws-coach
+  - baby_love
 layers:
   - base
   - cli

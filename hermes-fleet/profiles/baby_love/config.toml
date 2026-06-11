@@ -1,0 +1,25 @@
+[model]
+provider = "deepseek"
+default = "deepseek-v4-pro"
+base_url = "https://api.deepseek.com/v1"
+
+[agent]
+max_turns = 60
+gateway_timeout = 1800
+reasoning_effort = "medium"
+
+[terminal]
+backend = "local"
+cwd = "/home/leon"
+
+[display]
+compact = true
+personality = "helpful"
+show_reasoning = false
+streaming = true
+
+[memory]
+provider = "mem0"
+
+[skills]
+external_dirs = ["/home/leon/.hermes/skills"]
