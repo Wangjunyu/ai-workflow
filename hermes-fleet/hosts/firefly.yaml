@@ -4,12 +4,12 @@ hostname: firefly
 ssh_alias: firefly
 profiles:
   - default
-  - bengbeng
-  - infra-ops
-  - planner
-  - peopleman
-  - tws-coach
-  - baby_love
+  - client-bengbeng
+  - p-infra
+  - biz-planner
+  - p-people
+  - biz-tws
+  - f-baby
 layers:
   - base
   - cli

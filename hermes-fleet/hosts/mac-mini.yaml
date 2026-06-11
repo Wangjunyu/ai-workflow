@@ -4,11 +4,11 @@ hostname: mac-mini
 ssh_alias: mac-mini
 profiles:
   - default
-  - bulma
+  - client-bulma
 layers:
   - base
   - cli
   - bot
 env_source: bitwarden
 services:
-  - hermes-gateway-bulma
+  - hermes-gateway-client-bulma
