@@ -1,36 +1,60 @@
 # 飞书妙记索引
 
-> 自动生成于 cron: `minutes-index-daily-sync`
-> 数据来源: `lark-cli minutes +search --participant-ids "me"`
+> 最后更新: 2026-06-13 (cron: minutes-index-daily-sync)
+> 数据范围: 近7天 (2026-06-06 ~ 2026-06-13)
+> 搜索身份: user (浚宇)
 
 ## 统计概览
 
-> 最后更新: 2026-06-12 03:52 UTC+8 — ⚠️ **同步失败**（用户授权缺失）
-
-| 维度 | 数量 |
-|------|:----:|
-| 近7天妙记总数 | ❌ 无法获取 |
-| 近24h新增 | ❌ 无法获取 |
-
-## 故障说明
-
-**根本原因：** `lark-cli` 用户身份缺失。`minutes +search` 仅支持 `--as user`，而当前环境（firefly cron）中无已登录用户。
-
-**日志证据：**
-- `lark-cli auth status` → `user: missing (no user logged in)`
-- `lark-cli minutes +search` → `need_user_authorization (user: )`
-- Bot 身份可用但 `minutes +search` 不支持 bot（报错：`--as bot is not supported, this command only supports: user`）
-- Bot 直调 REST API `/open-apis/minutes/v1/minutes` → 404；`/minutes/search` → field validation 失败
-
-**需要的操作（用户侧）：**
-1. 在 firefly 上执行：`lark-cli auth login --domain minutes`
-2. 用飞书扫描 QR 码完成授权
-3. 授权后用户 token 会持续有效（含 refresh token 自动续期）
-
-**备选方案（长期）：** 将 cron job 改为在 mac-mini（有用户会话/Keychain Access）执行，或迁移到支持 user access token 的服务端 OAuth 流程。
+| 指标 | 数值 |
+|------|------|
+| 近7天总数 | 7 |
+| 近24h新增 | 1 |
+| 搜索时间 | 2026-06-13 |
 
 ## 近7天妙记列表
 
-| 日期 | 标题 | minute_token | 时长 |
-|------|------|-------------|:--:|
-| (待用户修复授权后重新同步) | | | |
+### 2026-06-12 (周五) — 1 场
+
+| # | 标题 | Token | 开始时间 | 时长 | 状态 |
+|---|------|-------|----------|------|------|
+| 1 | 主持人双选 | `obcn69y734v65wayy4417x3q` | 18:20 | 52分39秒 | ✅ |
+
+### 2026-06-11 (周四) — 3 场
+
+| # | 标题 | Token | 开始时间 | 时长 | 状态 |
+|---|------|-------|----------|------|------|
+| 1 | AI沟通 | `obcn6n8ub832hn897fzupgot` | 21:12 | 1h56m19s | ✅ |
+| 2 | 思华的会议 | `obcn6eo778y96248lzpl4n7v` | 12:56 | 33分34秒 | ✅ |
+| 3 | 后来之地例会 | `obcn6b5p5222kj61n399llj5` | 09:59 | 1h0m7s | ✅ |
+
+### 2026-06-10 (周三) — 1 场
+
+| # | 标题 | Token | 开始时间 | 时长 | 状态 |
+|---|------|-------|----------|------|------|
+| 1 | 康康-3个月陪跑的目标沟通 | `obcn5l9n17t3hsj882976g59` | 08:58 | 1h46m34s | ✅ |
+
+### 2026-06-09 (周二) — 2 场
+
+| # | 标题 | Token | 开始时间 | 时长 | 状态 |
+|---|------|-------|----------|------|------|
+| 1 | 人员招募组碰头会 | `obcn48w57guju273wwxp8xm` | 19:35 | 2h11m37s | ✅ |
+| 2 | 华农教练项目 | `obcn43n4mj8o558xrpde33ob` | 14:02 | 2h28m2s | ✅ |
+
+### 2026-06-08 (周一) — 0 场
+
+### 2026-06-07 (周日) — 0 场
+
+### 2026-06-06 (周六) — 0 场
+
+## 链接速查
+
+| 标题 | 链接 |
+|------|------|
+| 主持人双选 | https://rcnsiaef7x5y.feishu.cn/minutes/obcn69y734v65wayy4417x3q |
+| AI沟通 | https://rcnsiaef7x5y.feishu.cn/minutes/obcn6n8ub832hn897fzupgot |
+| 思华的会议 | https://rcnsiaef7x5y.feishu.cn/minutes/obcn6eo778y96248lzpl4n7v |
+| 后来之地例会 | https://rcnsiaef7x5y.feishu.cn/minutes/obcn6b5p5222kj61n399llj5 |
+| 康康-3个月陪跑的目标沟通 | https://rcnsiaef7x5y.feishu.cn/minutes/obcn5l9n17t3hsj882976g59 |
+| 人员招募组碰头会 | https://rcnsiaef7x5y.feishu.cn/minutes/obcn48w57guju273wwxp8xm |
+| 华农教练项目 | https://rcnsiaef7x5y.feishu.cn/minutes/obcn43n4mj8o558xrpde33ob |
