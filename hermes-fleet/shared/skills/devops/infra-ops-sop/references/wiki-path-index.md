@@ -31,9 +31,23 @@
 | 朋友们 | F58lwOvCFid1FlkUtA8cAhMsnwg | true |
 | 客户相关 | DcMiwjhT5iY4IokSxulcWYoBnSb | true |
 
+### 首页 → 子节点
+
+| 节点名 | node_token | has_child |
+|--------|-----------|-----------|
+| 人员清单 | R2hnw298AihV7ekd05xc9mMBnfg | true |
+| 我的2026-人.xlsx | AROqwQ0CMiQhh7kdlOxcZF8gnah | false |
+| 客户-客户档案汇总 | QjsdwRV4viiHeekcAyacqCtenWh | false |
+
+### 人员清单 → 子节点
+
+| 节点名 | node_token | has_child |
+|--------|-----------|-----------|
+| 人员清单更新日志说明 | GaYPwhIyKiiVPpkuqETcCLkinXf | false |
+
 ---
 
-### 客户相关 → 子节点 (9人)
+### 客户相关 → 子节点 (14人)
 
 | 节点名 | node_token | has_child |
 |--------|-----------|-----------|
@@ -46,6 +60,11 @@
 | 丁雅华 | Uks3wWAF7il4ZUkXvvycS5S5noQ | true |
 | 李慧 | JqxFwJfYiizGXik6stjcXCWgnDb | true |
 | 曾华青 | KFtbwYiV3iguHvk3dmYcP7h7nIg | true |
+| 陈悦 | KkqpwlHGcihkT0kIM52cTGu1nMf | true |
+| 陈妮 | FDs5wmaKIiSQbSk27oGcJBLKnPf | true |
+| 李博 | URyhwU4PPiO09ak1UM1cbvuXnVh | true |
+| Erin艾琳 | QtJowwdA6ipsPRkzqWwcaWefn3K | true |
+| 佳佳 | YvwawNcKniSnsBkodqFch7mpnvX | true |
 
 ---
 
@@ -195,11 +214,51 @@
 
 ---
 
-### 朋友们 → 子节点 (38人)
+### 李博 → 子节点
 
 | 节点名 | node_token | has_child |
 |--------|-----------|-----------|
-| **李博** | URyhwU4PPiO09ak1UM1cbvuXnVh | **true** |
+| Tapon: A Manifesto | Lo4OwfEVIiBBJTkkslgcRYaznYg | false |
+| Tapon许愿池 From 浚宇 | GByqwZXqliY54IkpyjPc7WcHnNd | false |
+| tapon-shiyong-tiyan-ji-gongzuoliu-guihua | ENGyw6nNfiQCVFkf7dwcweYfnwf | false |
+
+### Erin艾琳 → 子节点
+
+| 节点名 | node_token | has_child |
+|--------|-----------|-----------|
+| Erin-后来之地讨论 | Es36wv7hMi0mVBk9tt1cbBZxnJg | false |
+| Erin-教练服务协议 | THfUwOfRXibZewkHaSfcS01vnGf | false |
+
+### 佳佳 → 子节点
+
+| 节点名 | node_token | has_child |
+|--------|-----------|-----------|
+| 佳佳-教练服务协议 | GEQVwcxSnitZ35kMDU3c4rkMngf | false |
+
+### 陈妮 → 子节点
+
+| 节点名 | node_token | has_child |
+|--------|-----------|-----------|
+| Sammy需求沟通复盘与后续服务设计 | M3fSwuOvViyD4ekh5HdcP2Hvn2c | false |
+| Sammy-需求沟通 | AEBHw9qdGiaOsxkiTMVc6f3GnRg | false |
+
+### 陈悦 → 子节点
+
+| 节点名 | node_token | has_child |
+|--------|-----------|-----------|
+| 沈磊保单利益整理表20251225.xlsx | QJltwzh7bitRRHkbVYZcxacTnfV | false |
+| 陈悦家庭财务规划-风险分析 | OGoDwKS9MiKUyzkYhAEclWx1nNb | false |
+| 卡卡聊保险需求 | NXcVwWUtQithgykyF37csqIWn1g | false |
+| 卡卡沟通小结-微信版-2026-06-05 | DE8dwsWvXiamS6kYbFdciJSrn51 | false |
+
+> 5 人 has_child=true（从「朋友们」移入），已全部展开到叶子节点。
+
+---
+
+### 朋友们 → 子节点 (33人)
+
+| 节点名 | node_token | has_child |
+|--------|-----------|-----------|
 | 王秋云 | JDZbwz7jxiNbUMkrIdgcnRk3nIG | false |
 | GG | FyHnwobfhiiIc0kKXHacwvURnag | false |
 | 韦德华 | Z9EhwNzFfiP4jCkOYuTcuhTJnUg | false |
@@ -209,8 +268,6 @@
 | 刘凯 | P3F1wnziHinGsck84odcQjswn2g | false |
 | 赵红丽 | ETdWwJQkHi658zkcqHKcaPiCnII | false |
 | 黄文艺 | EdKJwMhWEibiTrkP0NZcFAkCnh0 | false |
-| **Erin艾琳** | QtJowwdA6ipsPRkzqWwcaWefn3K | **true** |
-| **佳佳** | YvwawNcKniSnsBkodqFch7mpnvX | **true** |
 | 宋荔斯 | E8Egw7sv7iheODklzTScwPqGnTg | false |
 | 夏雪 | Oz54wP6Hoi7ipAkFmvbcOjcRnt0 | false |
 | **朱训兰** | L6yAwCbzQiCJsskAyUBczAJlnvh | **true** |
@@ -218,7 +275,6 @@
 | 蒋艺婧 | UFCAwRSYPiNrYXknTVvcJesbn4e | false |
 | 谢伊璇 | HeqpwbhqGi22BBkaRFVcsXmKnVc | false |
 | 阴玉双 | D9mkwW7l5iAXcUkzW1wcYdlKnub | false |
-| **陈妮** | FDs5wmaKIiSQbSk27oGcJBLKnPf | **true** |
 | 杨立 | RblwwIGLNibmRQkGQn8cUaMQnxh | false |
 | 朱凡 | VSH0wgo90iqr62kVvnFco43xnbf | false |
 | 孔明 | TKndwHWcYiBkDMkSBr9cUGdsnac | false |
@@ -236,28 +292,6 @@
 | Harry 皓同学 | C26HwqnkniI44NkUHSTce8GmnJd | false |
 | 邱楚 | BxQxwmfYYiO36ZkbuomcmEp5n2y | false |
 | 王永澄 | MWe9weyxeib07BkKKO7cZ0hPnod | false |
-| **陈悦** | KkqpwlHGcihkT0kIM52cTGu1nMf | **true** |
-
-### 朋友们 → 李博 → 子节点
-
-| 节点名 | node_token | has_child |
-|--------|-----------|-----------|
-| Tapon: A Manifesto | Lo4OwfEVIiBBJTkkslgcRYaznYg | false |
-| Tapon许愿池 From 浚宇 | GByqwZXqliY54IkpyjPc7WcHnNd | false |
-| tapon-shiyong-tiyan-ji-gongzuoliu-guihua | ENGyw6nNfiQCVFkf7dwcweYfnwf | false |
-
-### 朋友们 → Erin艾琳 → 子节点
-
-| 节点名 | node_token | has_child |
-|--------|-----------|-----------|
-| Erin-后来之地讨论 | Es36wv7hMi0mVBk9tt1cbBZxnJg | false |
-| Erin-教练服务协议 | THfUwOfRXibZewkHaSfcS01vnGf | false |
-
-### 朋友们 → 佳佳 → 子节点
-
-| 节点名 | node_token | has_child |
-|--------|-----------|-----------|
-| 佳佳-教练服务协议 | GEQVwcxSnitZ35kMDU3c4rkMngf | false |
 
 ### 朋友们 → 朱训兰 → 子节点
 
@@ -265,29 +299,13 @@
 |--------|-----------|-----------|
 | 除了企业中高管，我还想支持这样的伙伴 | IZpcw92I5iux3okRAcpcXnawnvc | false |
 
-### 朋友们 → 陈妮 → 子节点
-
-| 节点名 | node_token | has_child |
-|--------|-----------|-----------|
-| Sammy需求沟通复盘与后续服务设计 | M3fSwuOvViyD4ekh5HdcP2Hvn2c | false |
-| Sammy-需求沟通 | AEBHw9qdGiaOsxkiTMVc6f3GnRg | false |
-
 ### 朋友们 → 余了了 → 子节点
 
 | 节点名 | node_token | has_child |
 |--------|-----------|-----------|
 | 智能纪要：浚宇与用户探讨教练合作事宜 2026年5月15日 | GCfxwrjUCihjaykfBXOc59Evn4g | false |
 
-### 朋友们 → 陈悦 → 子节点
-
-| 节点名 | node_token | has_child |
-|--------|-----------|-----------|
-| 沈磊保单利益整理表20251225.xlsx | QJltwzh7bitRRHkbVYZcxacTnfV | false |
-| 陈悦家庭财务规划-风险分析 | OGoDwKS9MiKUyzkYhAEclWx1nNb | false |
-| 卡卡聊保险需求 | NXcVwWUtQithgykyF37csqIWn1g | false |
-| 卡卡沟通小结-微信版-2026-06-05 | DE8dwsWvXiamS6kYbFdciJSrn51 | false |
-
-> 7 人 has_child=true（加粗标记），已全部展开到叶子节点。每日子节点全部 has_child=false，后续无需重复枚举。
+> 2 人 has_child=true（朱训兰、余了了），已全部展开到叶子节点。每日子节点全部 has_child=false，后续无需重复枚举。
 
 ---
 
@@ -1368,4 +1386,4 @@
 *云盘结构最后更新: 2026-06-11*
 ---
 
-*最后更新: 2026-06-12 — 增量扫描：关莲 +2 个新节点（家庭生命周期表、家庭财务全景分析-Final）。总计 466 节点。*
+*最后更新: 2026-06-13 — 结构调整：5人(陈悦/陈妮/李博/Erin艾琳/佳佳)从「朋友们」移入「客户相关」，首页+3节点(人员清单/我的2026-人.xlsx/客户-客户档案汇总)。总计 471 节点。*
