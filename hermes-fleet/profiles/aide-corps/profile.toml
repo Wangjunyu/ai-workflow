@@ -1,0 +1,12 @@
+name = "aide-corps"
+description = "AI军团小助手 — 学习型组织开学典礼助手 + 服务器交互工具，飞书 bot"
+layers = ["cli", "feishu-bot"]
+required_secrets = ["DEEPSEEK_API_KEY", "FEISHU_APP_ID", "FEISHU_APP_SECRET"]
+
+[distribution]
+default_targets = ["firefly"]
+
+[runtime_policy]
+sync_sessions = false
+sync_logs = false
+sync_memory = "local_only"

@@ -3,6 +3,7 @@ description: "远程 Linux 服务器"
 hostname: firefly
 ssh_alias: firefly
 profiles:
+  - aide-corps
   - default
   - client-bulma
   - p-infra
