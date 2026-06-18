@@ -270,7 +270,7 @@
 | 黄文艺 | EdKJwMhWEibiTrkP0NZcFAkCnh0 | false |
 | 宋荔斯 | E8Egw7sv7iheODklzTScwPqGnTg | false |
 | 夏雪 | Oz54wP6Hoi7ipAkFmvbcOjcRnt0 | false |
-| **朱训兰** | L6yAwCbzQiCJsskAyUBczAJlnvh | **true** |
+| **朱训兰** | L6yAwCbzQiCJsskAyUBczAJlnvh | **false** |
 | 罗惠方 | X9K0w6fx3itPhAkleGZc5qW3n6e | false |
 | 蒋艺婧 | UFCAwRSYPiNrYXknTVvcJesbn4e | false |
 | 谢伊璇 | HeqpwbhqGi22BBkaRFVcsXmKnVc | false |
@@ -286,7 +286,7 @@
 | yoyo | XUA5wAH9jik9OdkuKHhcXppdnXe | false |
 | 晓明 | A9fywH8Qhi8p58kGBOAckYR6nhg | false |
 | 山雯 | EPsowJoHriEG8okVW0vcWhBMneh | false |
-| **余了了** | BH4hwzxnpik3ChkmrkccIYjOnRh | **true** |
+| **余了了** | BH4hwzxnpik3ChkmrkccIYjOnRh | **false** |
 | 张敏立 | BwmywG321i64YRkV7nFcKpoxned | false |
 | 何水 | BRFPwwvl5it2WEkeW65cEfWynsd | false |
 | Harry 皓同学 | C26HwqnkniI44NkUHSTce8GmnJd | false |
@@ -305,7 +305,7 @@
 |--------|-----------|-----------|
 | 智能纪要：浚宇与用户探讨教练合作事宜 2026年5月15日 | GCfxwrjUCihjaykfBXOc59Evn4g | false |
 
-> 2 人 has_child=true（朱训兰、余了了），已全部展开到叶子节点。每日子节点全部 has_child=false，后续无需重复枚举。
+> 0 人 has_child=true，全部为叶子节点。每日子节点全部 has_child=false，后续无需重复枚举。
 
 ---
 
@@ -774,6 +774,7 @@
 - [x] ~~康康 > 会议记录 (has_child=true)~~ ✓ 2026-06-11 — 7 个叶子节点
 - [x] ~~丁雅华 > 教练交付-沟通记录 (has_child=true)~~ ✓ 2026-06-11 — 1 个叶子节点
 - [x] ~~朋友们 下 7 个 has_child=true 的人名（李博、Erin艾琳、佳佳、朱训兰、陈妮、余了了、陈悦）~~ ✓ 2026-06-11 — 全部展开到叶子节点
+- [x] ~~朋友们 下 朱训兰、余了了 子节点消失~~ ✓ 2026-06-19 — has_child → false，原 1 个子节点已被删除
 - [ ] C的旅程 > 我参与的面聊 下 8 个 has_child=true 面聊记录 — 待展开
 - [ ] C的旅程 > 前台异议处理 下 10 个 has_child=true — 待展开
 - [ ] 商业实践 深度2节点（14个 has_child=true）— 待展开
@@ -1386,4 +1387,4 @@
 *云盘结构最后更新: 2026-06-11*
 ---
 
-*最后更新: 2026-06-13 — 结构调整：5人(陈悦/陈妮/李博/Erin艾琳/佳佳)从「朋友们」移入「客户相关」，首页+3节点(人员清单/我的2026-人.xlsx/客户-客户档案汇总)。总计 471 节点。*
+*最后更新: 2026-06-19 — 增量扫描：无新节点。朋友们下朱训兰、余了了 has_child → false。总计 471 节点。*
