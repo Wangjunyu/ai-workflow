@@ -1,22 +1,33 @@
 # 飞书妙记索引
 
-> 最后更新: 2026-06-18 (cron: minutes-index-daily-sync)
-> 数据范围: 近7天 (2026-06-11 ~ 2026-06-18)
+> 最后更新: 2026-06-19 (cron: minutes-index-daily-sync)
+> 数据范围: 近7天 (2026-06-12 ~ 2026-06-19)
 > 搜索身份: user (浚宇)
 
 ## 统计概览
 
 | 指标 | 数值 |
 |------|------|
-| 近7天总数 | 19 |
-| 近24h新增 | 3 |
-| 搜索时间 | 2026-06-18 |
+| 近7天总数 | 22 |
+| 近24h新增 | 6 |
+| 搜索时间 | 2026-06-19 |
 
 ## 近7天妙记列表
 
-### 2026-06-18 (周四) — 0 场
+### 2026-06-19 (周五) — 0 场
 
 _今日暂无妙记。_
+
+### 2026-06-18 (周四) — 6 场 🆕
+
+| # | 标题 | Token | 开始时间 | 时长 | 状态 |
+|---|------|-------|----------|------|------|
+| 1 | 后勤组PM沟通 | `obcnbg7b6z44xd712xq2j571` | 21:03 | 22分19秒 | ✅ |
+| 2 | AI赋能分享-如何高效批量出图 | `obcnbemdq54c6z8nd7o6x7lt` | 19:58 | 47分45秒 | ✅ |
+| 3 | AI赋能分享，DAY3 作图分享 | `obcnba9b11t3l4259246i4on` | 15:59 | 1h16m6s | ✅ |
+| 4 | 教练督导练习-卡卡和邱邱 | `obcna84l1r51zgcxqo6l82p4` | 13:58 | 1h59m15s | ✅ |
+| 5 | 后来之地例会 | `obcna5162t17m899fui8qrs2` | 10:00 | 26分41秒 | ✅ |
+| 6 | 华农教练项目 | `obcna4c7wc5yt96647v94cto` | 09:01 | 1h0m38s | ✅ |
 
 ### 2026-06-17 (周三) — 3 场
 
@@ -64,18 +75,16 @@ _今日暂无妙记。_
 |---|------|-------|----------|------|------|
 | 1 | 主持人双选 | `obcn69y734v65wayy4417x3q` | 18:20 | 52分39秒 | ✅ |
 
-### 2026-06-11 (周四) — 3 场
-
-| # | 标题 | Token | 开始时间 | 时长 | 状态 |
-|---|------|-------|----------|------|------|
-| 1 | AI沟通 | `obcn6n8ub832hn897fzupgot` | 21:12 | 1h56m19s | ✅ |
-| 2 | 思华的会议 | `obcn6eo778y96248lzpl4n7v` | 12:56 | 33分34秒 | ✅ |
-| 3 | 后来之地例会 | `obcn6b5p5222kj61n399llj5` | 09:59 | 1h0m7s | ✅ |
-
 ## 链接速查
 
 | 标题 | 链接 |
 |------|------|
+| 后勤组PM沟通 | https://rcnsiaef7x5y.feishu.cn/minutes/obcnbg7b6z44xd712xq2j571 |
+| AI赋能分享-如何高效批量出图 | https://rcnsiaef7x5y.feishu.cn/minutes/obcnbemdq54c6z8nd7o6x7lt |
+| AI赋能分享，DAY3 作图分享 | https://rcnsiaef7x5y.feishu.cn/minutes/obcnba9b11t3l4259246i4on |
+| 教练督导练习-卡卡和邱邱 | https://rcnsiaef7x5y.feishu.cn/minutes/obcna84l1r51zgcxqo6l82p4 |
+| 后来之地例会 | https://rcnsiaef7x5y.feishu.cn/minutes/obcna5162t17m899fui8qrs2 |
+| 华农教练项目 | https://rcnsiaef7x5y.feishu.cn/minutes/obcna4c7wc5yt96647v94cto |
 | 「AI 方案极速生成实战营」AI赋能系列培训 | https://rcnsiaef7x5y.feishu.cn/minutes/obcnalj83o8dk8cb8qwl9c11 |
 | AI军团组长群的视频会议 | https://rcnsiaef7x5y.feishu.cn/minutes/obcnai4kw285279lmpj827vc |
 | 浚宇的视频会议 (06-17 11:49) | https://rcnsiaef7x5y.feishu.cn/minutes/obcnahdq262z8duswrjq42yq |
@@ -92,6 +101,3 @@ _今日暂无妙记。_
 | 浚宇的视频会议 (06-13 16:02) | https://rcnsiaef7x5y.feishu.cn/minutes/obcn7v7llt37k2ptqjdil985 |
 | 后来之地-公益对话 | https://rcnsiaef7x5y.feishu.cn/minutes/obcn7t7op742ij8287q3hrdb |
 | 主持人双选 | https://rcnsiaef7x5y.feishu.cn/minutes/obcn69y734v65wayy4417x3q |
-| AI沟通 | https://rcnsiaef7x5y.feishu.cn/minutes/obcn6n8ub832hn897fzupgot |
-| 思华的会议 | https://rcnsiaef7x5y.feishu.cn/minutes/obcn6eo778y96248lzpl4n7v |
-| 后来之地例会 | https://rcnsiaef7x5y.feishu.cn/minutes/obcn6b5p5222kj61n399llj5 |
