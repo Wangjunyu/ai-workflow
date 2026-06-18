@@ -107,12 +107,14 @@ existing = {
         "THfUwOfRXibZewkHaSfcS01vnGf": ("Erin-教练服务协议", False),
     }},
     "YvwawNcKniSnsBkodqFch7mpnvX": {"children": {"GEQVwcxSnitZ35kMDU3c4rkMngf": ("佳佳-教练服务协议", False)}},
-    "L6yAwCbzQiCJsskAyUBczAJlnvh": {"children": {"IZpcw92I5iux3okRAcpcXnawnvc": ("除了企业中高管，我还想支持这样的伙伴", False)}},
+    # 朱训兰 (朋友们) — has_child → false 2026-06-19
+    "L6yAwCbzQiCJsskAyUBczAJlnvh": {},
     "FDs5wmaKIiSQbSk27oGcJBLKnPf": {"children": {
         "M3fSwuOvViyD4ekh5HdcP2Hvn2c": ("Sammy需求沟通复盘与后续服务设计", False),
         "AEBHw9qdGiaOsxkiTMVc6f3GnRg": ("Sammy-需求沟通", False),
     }},
-    "BH4hwzxnpik3ChkmrkccIYjOnRh": {"children": {"GCfxwrjUCihjaykfBXOc59Evn4g": ("智能纪要：浚宇与用户探讨教练合作事宜", False)}},
+    # 余了了 (朋友们) — has_child → false 2026-06-19
+    "BH4hwzxnpik3ChkmrkccIYjOnRh": {},
     "KkqpwlHGcihkT0kIM52cTGu1nMf": {"children": {
         "QJltwzh7bitRRHkbVYZcxacTnfV": ("沈磊保单利益整理表20251225.xlsx", False),
         "OGoDwKS9MiKUyzkYhAEclWx1nNb": ("陈悦家庭财务规划-风险分析", False),
