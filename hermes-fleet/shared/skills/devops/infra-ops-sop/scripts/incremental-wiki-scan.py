@@ -121,6 +121,8 @@ existing = {
         "NXcVwWUtQithgykyF37csqIWn1g": ("卡卡聊保险需求", False),
         "DE8dwsWvXiamS6kYbFdciJSrn51": ("卡卡沟通小结-微信版-2026-06-05", False),
     }},
+    # 首页 > 人员清单 (2026-06-21)
+    "R2hnw298AihV7ekd05xc9mMBnfg": {"children": {"GaYPwhIyKiiVPpkuqETcCLkinXf": ("人员清单更新日志说明", False)}},
 }
 
 
@@ -248,10 +250,8 @@ def main():
         ("Vwc5wRFVhiTGuxkEIFncP60qneh", "客户相关 > 丁雅华 > 交付清单 > 沟通记录", 3),
         # 首页 (NEW 2026-06-13)
         ("R2hnw298AihV7ekd05xc9mMBnfg", "首页 > 人员清单", 1),
-        # 朋友们 (expanded, all leaf)
-        ("L6yAwCbzQiCJsskAyUBczAJlnvh", "朋友们 > 朱训兰", 1),
-        ("BH4hwzxnpik3ChkmrkccIYjOnRh", "朋友们 > 余了了", 1),
-    ]
+        # 朋友们 — 朱训兰、余了了 has_child→false 2026-06-19，已移除
+    ],
 
     all_new_discoveries = {}
     total = len(scans)
