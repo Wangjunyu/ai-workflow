@@ -1,22 +1,29 @@
 # 飞书妙记索引
 
-> 最后更新: 2026-06-22 (cron: minutes-index-daily-sync)
-> 数据范围: 近7天 (2026-06-16 ~ 2026-06-22)
+> 最后更新: 2026-06-23 (cron: minutes-index-daily-sync)
+> 数据范围: 近7天 (2026-06-17 ~ 2026-06-23)
 > 搜索身份: user (浚宇)
 
 ## 统计概览
 
 | 指标 | 数值 |
 |------|------|
-| 近7天总数 | 17 |
+| 近7天总数 | 13 |
 | 近24h新增 | 1 |
-| 搜索时间 | 2026-06-22 |
+| 新增明细 | AI赋能分享\|脚本到成片｜星流AI原创短视频实操培训 \|空文 (06-22) |
+| 搜索时间 | 2026-06-23 |
 
 ## 近7天妙记列表
 
-### 2026-06-22 (周一) — 0 场
+### 2026-06-23 (周二) — 0 场
 
 _今日暂无妙记。_
+
+### 2026-06-22 (周一) — 1 场
+
+| # | 标题 | Token | 开始时间 | 时长 | 状态 |
+|---|------|-------|----------|------|------|
+| 1 | AI赋能分享\|脚本到成片｜星流AI原创短视频实操培训 \|空文 | `obcnd1r9528bj8n37ad31844` | 15:58 | 1h5m28s | ✅ |
 
 ### 2026-06-21 (周日) — 1 场
 
@@ -54,20 +61,11 @@ _今日暂无妙记。_
 | 2 | AI军团组长群的视频会议 | `obcnai4kw285279lmpj827vc` | 12:05 | 8分28秒 | ✅ |
 | 3 | 浚宇的视频会议 | `obcnahdq262z8duswrjq42yq` | 11:49 | 13分50秒 | ✅ |
 
-### 2026-06-16 (周二) — 5 场
-
-| # | 标题 | Token | 开始时间 | 时长 | 状态 |
-|---|------|-------|----------|------|------|
-| 1 | 浚宇的视频会议 | `obcn94m48r9a8jww8693a2v3` | 22:02 | 31分43秒 | ✅ |
-| 2 | 多维表格应用培训-开学典礼AI军团 | `obcn9ws39289av5h7pev5coj` | 15:54 | 38分8秒 | ✅ |
-| 3 | AI赋能组交流 | `obcn9vsc9h19a82vzv751643` | 14:25 | 35分47秒 | ✅ |
-| 4 | 浚宇的视频会议 | `obcn9q284p6wuc52x52s25o1` | 09:45 | 9分49秒 | ✅ |
-| 5 | 浚宇的视频会议 | `obcn9q7tqtix65373uhxy8sb` | 09:03 | 32分40秒 | ✅ |
-
 ## 链接速查
 
 | 标题 | 链接 |
 |------|------|
+| AI赋能分享\|脚本到成片｜星流AI原创短视频实操培训 \|空文 | https://rcnsiaef7x5y.feishu.cn/minutes/obcnd1r9528bj8n37ad31844 |
 | AI军团周度复盘会 | https://rcnsiaef7x5y.feishu.cn/minutes/obcndgaq16b24u61gkgfh2ro |
 | AI赋能分享-飞书办公全流程 | https://rcnsiaef7x5y.feishu.cn/minutes/obcnchq9b9jbz9b9gu25g1n2 |
 | 浚宇的视频会议 (06-20 21:38) | https://rcnsiaef7x5y.feishu.cn/minutes/obcnct932ch4o28e9934qu2t |
@@ -80,8 +78,3 @@ _今日暂无妙记。_
 | 「AI 方案极速生成实战营」AI赋能系列培训 | https://rcnsiaef7x5y.feishu.cn/minutes/obcnalj83o8dk8cb8qwl9c11 |
 | AI军团组长群的视频会议 | https://rcnsiaef7x5y.feishu.cn/minutes/obcnai4kw285279lmpj827vc |
 | 浚宇的视频会议 (06-17 11:49) | https://rcnsiaef7x5y.feishu.cn/minutes/obcnahdq262z8duswrjq42yq |
-| 浚宇的视频会议 (06-16 22:02) | https://rcnsiaef7x5y.feishu.cn/minutes/obcn94m48r9a8jww8693a2v3 |
-| 多维表格应用培训-开学典礼AI军团 | https://rcnsiaef7x5y.feishu.cn/minutes/obcn9ws39289av5h7pev5coj |
-| AI赋能组交流 | https://rcnsiaef7x5y.feishu.cn/minutes/obcn9vsc9h19a82vzv751643 |
-| 浚宇的视频会议 (06-16 09:45) | https://rcnsiaef7x5y.feishu.cn/minutes/obcn9q284p6wuc52x52s25o1 |
-| 浚宇的视频会议 (06-16 09:03) | https://rcnsiaef7x5y.feishu.cn/minutes/obcn9q7tqtix65373uhxy8sb |
