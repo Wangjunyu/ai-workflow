@@ -47,7 +47,7 @@
 
 ---
 
-### 客户相关 → 子节点 (14人)
+### 客户相关 → 子节点 (15人)
 
 | 节点名 | node_token | has_child |
 |--------|-----------|-----------|
@@ -65,6 +65,7 @@
 | 李博 | URyhwU4PPiO09ak1UM1cbvuXnVh | true |
 | Erin艾琳 | QtJowwdA6ipsPRkzqWwcaWefn3K | true |
 | 佳佳 | YvwawNcKniSnsBkodqFch7mpnvX | true |
+| 邹易 | IOEOwpB46iyzIvk2YuhcwZlfnSe | true |
 
 ---
 
@@ -92,6 +93,7 @@
 | 关莲家庭财务全景分析-生老病死-V2 | PZZOwqGPai39kDkFfLlcDjUNnGh | false |
 | 关莲家庭生命周期表 | HJ6QwL6xziAJSok2qm4cprsun9R | false |
 | 关莲家庭财务全景分析-Final | YFVwwThcui0Oiyk0rZ4cZtCZn1B | false |
+| 关莲沟通小结-202606 | Fwk2w5oEFiUO7Fkc2gdcnX3ln4n | false |
 
 ---
 
@@ -235,6 +237,14 @@
 |--------|-----------|-----------|
 | 佳佳-教练服务协议 | GEQVwcxSnitZ35kMDU3c4rkMngf | false |
 
+### 邹易 → 子节点
+
+| 节点名 | node_token | has_child |
+|--------|-----------|-----------|
+| 邹易 家庭保险规划 Intake 2026-06-10 | RJIVwTjlEiMsjnkM3vhcnuONngd | false |
+| 邹易-保险咨询待办事项 | YAIXwoTAFiybSykUlfpcuJHGnnf | false |
+| 邹易家庭保障沟通小结 | RIJtw7NLOipMEmkocgIclzLWnrb | false |
+
 ### 陈妮 → 子节点
 
 | 节点名 | node_token | has_child |
@@ -251,7 +261,7 @@
 | 卡卡聊保险需求 | NXcVwWUtQithgykyF37csqIWn1g | false |
 | 卡卡沟通小结-微信版-2026-06-05 | DE8dwsWvXiamS6kYbFdciJSrn51 | false |
 
-> 5 人 has_child=true（从「朋友们」移入），已全部展开到叶子节点。
+> 6 人 has_child=true（李博、Erin艾琳、佳佳、陈妮、陈悦、邹易），已全部展开到叶子节点。
 
 ---
 
@@ -1387,4 +1397,4 @@
 *云盘结构最后更新: 2026-06-11*
 ---
 
-*最后更新: 2026-06-22 — 增量扫描：无新节点。总计 471 节点。*
+*最后更新: 2026-06-27 — 增量扫描：新增 邹易 (has_child=true, 3 子节点) + 关莲沟通小结-202606 (1 叶子)。总计 476 节点。*
