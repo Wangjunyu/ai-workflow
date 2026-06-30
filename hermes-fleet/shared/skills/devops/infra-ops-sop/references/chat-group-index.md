@@ -1,7 +1,7 @@
 # 飞书群聊索引
 
 > 自动生成于 cron: `chat-index-daily-sync`
-> 最后更新: 2026-06-30
+> 最后更新: 2026-07-01
 > 数据来源: `lark-cli im +chat-list --as user`
 
 ## 统计概览
