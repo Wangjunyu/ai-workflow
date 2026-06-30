@@ -1,19 +1,23 @@
 # 飞书妙记索引
 
-> 最后更新: 2026-06-30 (cron: minutes-index-daily-sync)
-> 数据范围: 近7天 (2026-06-24 ~ 2026-06-30)
+> 最后更新: 2026-07-01 (cron: minutes-index-daily-sync)
+> 数据范围: 近7天 (2026-06-25 ~ 2026-07-01)
 > 搜索身份: user (浚宇)
 
 ## 统计概览
 
 | 指标 | 数值 |
 |------|------|
-| 近7天总数 | 8 |
+| 近7天总数 | 5 |
 | 近24h新增 | 0 |
 | 新增明细 | 无 |
-| 搜索时间 | 2026-06-30 |
+| 搜索时间 | 2026-07-01 |
 
 ## 近7天妙记列表
+
+### 2026-07-01 (周三) — 0 场
+
+_今日暂无妙记。_
 
 ### 2026-06-30 (周二) — 0 场
 
@@ -47,13 +51,6 @@ _今日暂无妙记。_
 |---|------|-------|----------|------|------|
 | 1 | 后来之地-小叶-化学会谈-公益对话准备 | `obcnf3j4kh3gogcw2uff12zx` | 15:41 | 14m25s | ✅ |
 
-### 2026-06-24 (周三) — 2 场
-
-| # | 标题 | Token | 开始时间 | 时长 | 状态 |
-|---|------|-------|----------|------|------|
-| 1 | 云光深聊 | `obcnfkmiqx7598e911keoem3` | 21:00 | 2h10m41s | ✅ |
-| 2 | AI赋能分享 | `obcnfd288z76425a8ec7j8fn` | 14:56 | 1h2m16s | ✅ |
-
 ## 链接速查
 
 | 标题 | 链接 |
@@ -63,5 +60,3 @@ _今日暂无妙记。_
 | C-无限夜话-AI | https://rcnsiaef7x5y.feishu.cn/minutes/obcnhn3174qv32id42512dnt |
 | 后来之地-公益对话 | https://rcnsiaef7x5y.feishu.cn/minutes/obcng8ium2o1629fbo2ua195 |
 | 后来之地-小叶-化学会谈-公益对话准备 | https://rcnsiaef7x5y.feishu.cn/minutes/obcnf3j4kh3gogcw2uff12zx |
-| 云光深聊 | https://rcnsiaef7x5y.feishu.cn/minutes/obcnfkmiqx7598e911keoem3 |
-| AI赋能分享 (06-24) | https://rcnsiaef7x5y.feishu.cn/minutes/obcnfd288z76425a8ec7j8fn |
