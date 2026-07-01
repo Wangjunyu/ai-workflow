@@ -303,19 +303,7 @@
 | 邱楚 | BxQxwmfYYiO36ZkbuomcmEp5n2y | false |
 | 王永澄 | MWe9weyxeib07BkKKO7cZ0hPnod | false |
 
-### 朋友们 → 朱训兰 → 子节点
-
-| 节点名 | node_token | has_child |
-|--------|-----------|-----------|
-| 除了企业中高管，我还想支持这样的伙伴 | IZpcw92I5iux3okRAcpcXnawnvc | false |
-
-### 朋友们 → 余了了 → 子节点
-
-| 节点名 | node_token | has_child |
-|--------|-----------|-----------|
-| 智能纪要：浚宇与用户探讨教练合作事宜 2026年5月15日 | GCfxwrjUCihjaykfBXOc59Evn4g | false |
-
-> 0 人 has_child=true，全部为叶子节点。每日子节点全部 has_child=false，后续无需重复枚举。
+> 0 人 has_child=true，全部为叶子节点。API 确认朱训兰、余了了返回 0 个子节点（2026-07-02 增量扫描验证）。每日子节点全部 has_child=false，后续无需重复枚举。
 
 ---
 
