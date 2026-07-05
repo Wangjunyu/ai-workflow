@@ -1,19 +1,23 @@
 # 飞书妙记索引
 
-> 最后更新: 2026-07-05 (cron: minutes-index-daily-sync)
-> 数据范围: 近7天 (2026-06-28 ~ 2026-07-05)
+> 最后更新: 2026-07-06 (cron: minutes-index-daily-sync)
+> 数据范围: 近7天 (2026-06-29 ~ 2026-07-06)
 > 搜索身份: user (浚宇)
 
 ## 统计概览
 
 | 指标 | 数值 |
 |------|------|
-| 近7天总数 | 5 |
-| 近24h新增 | 2 |
-| 新增明细 | 浚宇的视频会议、后来之地 Ruey 教练对话 体验 |
-| 搜索时间 | 2026-07-05 |
+| 近7天总数 | 3 |
+| 近24h新增 | 0 |
+| 新增明细 | 无 |
+| 搜索时间 | 2026-07-06 |
 
 ## 近7天妙记列表
+
+### 2026-07-06 (周一) — 0 场
+
+_今日暂无妙记。_
 
 ### 2026-07-05 (周日) — 0 场
 
@@ -48,13 +52,6 @@ _今日暂无妙记。_
 
 _今日暂无妙记。_
 
-### 2026-06-28 (周日) — 2 场
-
-| # | 标题 | Token | 开始时间 | 时长 | 状态 |
-|---|------|-------|----------|------|------|
-| 1 | 周日上午和卡卡交流保险事宜 | `obcnhzkblst5o6wy21c4251d` | 10:17 | 1 小时 23 分 5 秒 | ✅ |
-| 2 | 周日上午和卡卡交流保险事宜 | `obcnhz369d9lr8qq522x6g33` | 10:07 | 8 分 9 秒 | ✅ |
-
 ## 链接速查
 
 | 标题 | 链接 |
@@ -62,5 +59,3 @@ _今日暂无妙记。_
 | 浚宇的视频会议 | https://rcnsiaef7x5y.feishu.cn/minutes/obcnl44ya8v3db1d41n5pn5e |
 | 后来之地 Ruey 教练对话 体验 | https://rcnsiaef7x5y.feishu.cn/minutes/obcnl2khafru1974x6n5ewct |
 | 康康 教练对话 | https://rcnsiaef7x5y.feishu.cn/minutes/obcnkm78m8a924a47wzl3o81 |
-| 周日上午和卡卡交流保险事宜 | https://rcnsiaef7x5y.feishu.cn/minutes/obcnhzkblst5o6wy21c4251d |
-| 周日上午和卡卡交流保险事宜 | https://rcnsiaef7x5y.feishu.cn/minutes/obcnhz369d9lr8qq522x6g33 |
