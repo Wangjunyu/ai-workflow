@@ -154,7 +154,8 @@
 | 康康-中日保险深度对比分析-From Deepseek | EcsJwMaljiMgJ5kOs7acspU6ncf | false |
 | **会议记录** | D9dLwrEP2iX8NfkcwEgcIFebnDe | **true** |
 | 康康-教练服务协议-协议版.pdf | X2ldwmbcMiRDkSklDgIciyUmn0b | false |
-| 康康进展跟踪 | Ix4lwL6jri1EFdkG6xmcxE2WnLJ | false |
+|| 康康进展跟踪 | Ix4lwL6jri1EFdkG6xmcxE2WnLJ | false |
+|| 康康觉察记录 | YTenwvxcbitZpNkUIMIcn1Lhnub | false |
 
 ### 康康 → 交付清单 → 教练服务协议-协议版 → 子节点
 
@@ -259,7 +260,7 @@
 | 沈磊保单利益整理表20251225.xlsx | QJltwzh7bitRRHkbVYZcxacTnfV | false |
 | 陈悦家庭财务规划-风险分析 | OGoDwKS9MiKUyzkYhAEclWx1nNb | false |
 | 卡卡聊保险需求 | NXcVwWUtQithgykyF37csqIWn1g | false |
-| 卡卡沟通小结-微信版-2026-06-05 | DE8dwsWvXiamS6kYbFdciJSrn51 | false |
+| 卡卡保险业务推动记录 | DE8dwsWvXiamS6kYbFdciJSrn51 | false |
 
 > 6 人 has_child=true（李博、Erin艾琳、佳佳、陈妮、陈悦、邹易），已全部展开到叶子节点。
 
