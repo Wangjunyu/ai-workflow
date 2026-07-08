@@ -149,6 +149,7 @@ add_children("PLC2wV49MiR9Nnkoc00clIUanG5",  # 康康交付文档清单
     ("D9dLwrEP2iX8NfkcwEgcIFebnDe", "会议记录", True),
     ("X2ldwmbcMiRDkSklDgIciyUmn0b", "康康-教练服务协议-协议版.pdf", False),
     ("Ix4lwL6jri1EFdkG6xmcxE2WnLJ", "康康进展跟踪", False),
+    ("YTenwvxcbitZpNkUIMIcn1Lhnub", "康康觉察记录", False),
 )
 add_children("PYakwBbjoiZtBQkUnLFcy1VTnmf",  # 雅华交付清单
     ("F8W6wTagSi0UGtkJcbzcykitnCf", "雅华-教练服务协议-已结束", False),
