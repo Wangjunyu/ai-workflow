@@ -1,7 +1,7 @@
 # 飞书妙记索引
 
-> 最后更新: 2026-07-11 (cron: minutes-index-daily-sync)
-> 数据范围: 近7天 (2026-07-04 ~ 2026-07-11)
+> 最后更新: 2026-07-12 (cron: minutes-index-daily-sync)
+> 数据范围: 近7天 (2026-07-05 ~ 2026-07-12)
 > 搜索身份: user (浚宇)
 
 ## 统计概览
@@ -9,15 +9,22 @@
 | 指标 | 数值 |
 |------|------|
 | 近7天总数 | 4 |
-| 近24h新增 | 0 |
-| 新增明细 | 无 |
-| 搜索时间 | 2026-07-11 |
+| 近24h新增 | 2 |
+| 新增明细 | Erin (3秒), 康康交流 (59分7秒) |
+| 搜索时间 | 2026-07-12 |
 
 ## 近7天妙记列表
 
-### 2026-07-11 (周六) — 0 场
+### 2026-07-12 (周日) — 0 场
 
 _今日暂无妙记。_
+
+### 2026-07-11 (周六) — 2 场
+
+| # | 标题 | Token | 开始时间 | 时长 | 状态 |
+|---|------|-------|----------|------|------|
+| 1 | 康康交流 | `obcnqs4jthzc6hb251552rj3` | 06:58 | 59 分 7 秒 | ✅ |
+| 2 | Erin | `obcnqzl474yc9k78tq1nf9jx` | 13:29 | 3 秒 | ✅ |
 
 ### 2026-07-10 (周五) — 0 场
 
@@ -47,18 +54,11 @@ _今日暂无妙记。_
 |---|------|-------|----------|------|------|
 | 1 | C9.0开学典礼现场 | `obcnmy4f3n1z3u5s572h99jg` | 16:15 | 3 小时 25 分 58 秒 | ✅ |
 
-### 2026-07-04 (周六) — 2 场
-
-| # | 标题 | Token | 开始时间 | 时长 | 状态 |
-|---|------|-------|----------|------|------|
-| 1 | 浚宇的视频会议 | `obcnl44ya8v3db1d41n5pn5e` | 10:04 | 22 分 54 秒 | ✅ |
-| 2 | 后来之地 Ruey 教练对话 体验 | `obcnl2khafru1974x6n5ewct` | 08:56 | 1 小时 3 分 23 秒 | ✅ |
-
 ## 链接速查
 
 | 标题 | 链接 |
 |------|------|
+| 康康交流 | https://rcnsiaef7x5y.feishu.cn/minutes/obcnqs4jthzc6hb251552rj3 |
+| Erin | https://rcnsiaef7x5y.feishu.cn/minutes/obcnqzl474yc9k78tq1nf9jx |
 | 后来之地-公益对话定向 | https://rcnsiaef7x5y.feishu.cn/minutes/obcnoz59878x5vkm22x963zy |
 | C9.0开学典礼现场 | https://rcnsiaef7x5y.feishu.cn/minutes/obcnmy4f3n1z3u5s572h99jg |
-| 浚宇的视频会议 | https://rcnsiaef7x5y.feishu.cn/minutes/obcnl44ya8v3db1d41n5pn5e |
-| 后来之地 Ruey 教练对话 体验 | https://rcnsiaef7x5y.feishu.cn/minutes/obcnl2khafru1974x6n5ewct |
