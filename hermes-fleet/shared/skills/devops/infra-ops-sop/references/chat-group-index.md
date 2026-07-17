@@ -1,6 +1,6 @@
 # 飞书群聊索引
 
-> 自动更新于 2026-07-17
+> 自动更新于 2026-07-18
 > 数据源: `lark-cli im +chat-list --as user --sort-type ByActiveTimeDesc`
 
 ## 统计概览
@@ -22,15 +22,15 @@
 
 | # | 群名 | chat_id | 类型 | 内外 | 免@ |
 |---|------|---------|------|------|-----|
-| 1 | 【5群】AutoClaw Bots 用户群 | `oc_c7891ec18b28d6ebc79ad3c0204680bd` | group | 外部 |  |
-| 2 | AI Builder Demo Day | `oc_896773b99ac9f48731afd87de40159bb` | group | 外部 |  |
-| 3 | C-从福建到北京 | `oc_adc1a363e0e8cb30653f2f97f803429a` | group | 外部 |  |
-| 4 | 飞书 CLI 交流互助群（2 群） ｜Lark CLI Communication & Support (Group2) | `oc_b12927e59ee30de4fbc4b8b0d5adfc96` | topic | 外部 |  |
+| 1 | 飞书 CLI 交流互助群（2 群） ｜Lark CLI Communication & Support (Group2) | `oc_b12927e59ee30de4fbc4b8b0d5adfc96` | topic | 外部 |  |
+| 2 | 【5群】AutoClaw Bots 用户群 | `oc_c7891ec18b28d6ebc79ad3c0204680bd` | group | 外部 |  |
+| 3 | AI Builder Demo Day | `oc_896773b99ac9f48731afd87de40159bb` | group | 外部 |  |
+| 4 | 潞晨2026年度团体补充医疗沟通 | `oc_97cf6558bb17b589813fe975bae74244` | group | 外部 |  |
 | 5 | AI时代超级个体修炼群③ | `oc_2bfc02063ccd1a97e74ea139ca23fae6` | group | 外部 |  |
-| 6 | 潞晨2026年度团体补充医疗沟通 | `oc_97cf6558bb17b589813fe975bae74244` | group | 外部 |  |
-| 7 | 多维表格 Maker 大本营｜3群 | `oc_266c65b3e698e2e44992979d68b2c99b` | group | 外部 |  |
-| 8 | 小肥肥护卫队 | `oc_3b49ff0064d823d7464900efb051193a` | group | 外部 |  |
-| 9 | 星星一起搞事情 | `oc_8f82557b9650b4cfdda5f188b189341f` | group | 外部 |  |
+| 6 | 星星一起搞事情 | `oc_8f82557b9650b4cfdda5f188b189341f` | group | 外部 |  |
+| 7 | C-从福建到北京 | `oc_adc1a363e0e8cb30653f2f97f803429a` | group | 外部 |  |
+| 8 | 多维表格 Maker 大本营｜3群 | `oc_266c65b3e698e2e44992979d68b2c99b` | group | 外部 |  |
+| 9 | 小肥肥护卫队 | `oc_3b49ff0064d823d7464900efb051193a` | group | 外部 |  |
 | 10 | 玉洁陪跑-6.25-9.24 | `oc_563e4ff8b0fd86bdb458d2153b24aa8b` | group | 外部 |  |
 | 11 | 业务工作推动 | `oc_5a118714b3e9520b6b76970ef4267a10` | topic | 外部 |  |
 | 12 | 康康陪跑-6.4-9.3 | `oc_227dda7fd76cf0004921a079e09d1823` | group | 外部 |  |
@@ -75,7 +75,7 @@
 | 51 | 服务器告警 | `oc_288a700f2f94ffbc73291db187dc0ca4` | group | 内部 | ✅ |
 | 52 | 了了AI探索 | `oc_374f125b08122769e1b69846489e569a` | group | 外部 |  |
 | 53 | 输出 | `oc_552970581f3e8a908e2c4b48f1b41ac5` | topic | 内部 | ✅ |
-| 54 | 学习小组\| 教练对话 Sammy | `oc_327b53cb73cffe555dd225aeead996d9` | group | 外部 |  |
+| 54 | 学习小组| 教练对话 Sammy | `oc_327b53cb73cffe555dd225aeead996d9` | group | 外部 |  |
 | 55 | 核心目标 | `oc_482e9067d4cd4bb64cfa4b00e796c045` | topic | 内部 | ✅ |
 | 56 | 保存的飞书 | `oc_ab058974c1679965277e2ad127f03f49` | group | 内部 | ✅ |
 
