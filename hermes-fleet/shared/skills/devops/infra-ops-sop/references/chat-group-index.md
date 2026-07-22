@@ -1,7 +1,7 @@
 # 📋️ 飞书群聊索引
 
 > 自动生成于 cron: `chat-index-daily-sync`
-> 最后更新: 2026-07-22
+> 最后更新: 2026-07-23
 > 数据来源: `lark-cli im +chat-list --as user`
 
 ## 统计概览
@@ -23,15 +23,15 @@
 
 | # | 群名 | chat_id | 类型 | 内外 | 免@ |
 |---|------|---------|------|------|-----|
-| 1 | 【5群】AutoClaw Bots 用户群 | `oc_c7891ec18b28d6ebc79ad3c0204680bd` | 群聊 | 外部 |  |
-| 2 | 飞书 CLI 交流互助群（2 群） ｜Lark CLI Communication & Support (Group2) | `oc_b12927e59ee30de4fbc4b8b0d5adfc96` | 话题 | 外部 |  |
-| 3 | 浚宇 | `oc_ec9d84ae6e7b6dbd3da058074efb51cd` | 群聊 | 外部 |  |
+| 1 | 飞书 CLI 交流互助群（2 群） ｜Lark CLI Communication & Support (Group2) | `oc_b12927e59ee30de4fbc4b8b0d5adfc96` | 话题 | 外部 |  |
+| 2 | 【5群】AutoClaw Bots 用户群 | `oc_c7891ec18b28d6ebc79ad3c0204680bd` | 群聊 | 外部 |  |
+| 3 | AI时代超级个体修炼群③ | `oc_2bfc02063ccd1a97e74ea139ca23fae6` | 群聊 | 外部 |  |
 | 4 | AI Builder Demo Day | `oc_896773b99ac9f48731afd87de40159bb` | 群聊 | 外部 |  |
-| 5 | AI时代超级个体修炼群③ | `oc_2bfc02063ccd1a97e74ea139ca23fae6` | 群聊 | 外部 |  |
-| 6 | 小肥肥护卫队 | `oc_3b49ff0064d823d7464900efb051193a` | 群聊 | 外部 |  |
-| 7 | 玉洁陪跑-7.21-10.20 | `oc_563e4ff8b0fd86bdb458d2153b24aa8b` | 群聊 | 外部 |  |
-| 8 | 潞晨2026年度团体补充医疗沟通 | `oc_97cf6558bb17b589813fe975bae74244` | 群聊 | 外部 |  |
-| 9 | 星星一起搞事情 | `oc_8f82557b9650b4cfdda5f188b189341f` | 群聊 | 外部 |  |
+| 5 | 星星一起搞事情 | `oc_8f82557b9650b4cfdda5f188b189341f` | 群聊 | 外部 |  |
+| 6 | 浚宇 | `oc_ec9d84ae6e7b6dbd3da058074efb51cd` | 群聊 | 外部 |  |
+| 7 | 小肥肥护卫队 | `oc_3b49ff0064d823d7464900efb051193a` | 群聊 | 外部 |  |
+| 8 | 玉洁陪跑-7.21-10.20 | `oc_563e4ff8b0fd86bdb458d2153b24aa8b` | 群聊 | 外部 |  |
+| 9 | 潞晨2026年度团体补充医疗沟通 | `oc_97cf6558bb17b589813fe975bae74244` | 群聊 | 外部 |  |
 | 10 | C9-开学典礼-AI军团内部群 | `oc_4f67152e69f5f021959172c29f04ac2b` | 群聊 | 外部 |  |
 | 11 | 康康陪跑-6.4-9.3 | `oc_227dda7fd76cf0004921a079e09d1823` | 群聊 | 外部 |  |
 | 12 | 搞钱研究社 | `oc_476397b2a29d9be38855aa5c3c36bfd9` | 群聊 | 外部 |  |
@@ -84,7 +84,8 @@
 
 | 群名 | chat_id | require_mention |
 |------|---------|:--:|
-| AI工作流 | `omt_1966b44b748f1c8e` | false |
-| AI工作流(旧) | `oc_b54b6874ecb0ef2f7802c233d7b661b7` | false |
+| AI工作流 | `oc_b54b6874ecb0ef2f7802c233d7b661b7` | false |
+| AI工作流(旧) | `omt_1966b44b748f1c8e` | false |
 
 > ⚠️ `omt_` 前缀条目为死代码——group_rules 按 `oc_` 群 ID 匹配，`omt_` 条目永不生效（见 infra-ops-sop rule #12）。
+
