@@ -1,19 +1,27 @@
 # 飞书妙记索引
 
-> 最后更新: 2026-08-03 (cron: minutes-index-daily-sync)
-> 数据范围: 近7天 (2026-07-27 ~ 2026-08-03)
+> 最后更新: 2026-08-04 (cron: minutes-index-daily-sync)
+> 数据范围: 近7天 (2026-07-28 ~ 2026-08-04)
 > 搜索身份: user (浚宇)
 
 ## 统计概览
 
 | 指标 | 数值 |
 |------|------|
-| 近7天总数 | 12 |
-| 近24h新增 | 1 |
-| 新增明细 | `obcn6wj4` — 浚宇的视频会议 (2026-08-02 07:52, 15 秒) |
-| 搜索时间 | 2026-08-03 |
+| 近7天总数 | 11 |
+| 近24h新增 | 2 |
+| 新增明细 | `obcn73c2` — 浚宇的视频会议 (2026-08-04 00:38, 43 分 55 秒) |
+|  | `obcn73tx` — 浚宇的视频会议 (2026-08-04 00:29, 9 分 3 秒) |
+| 搜索时间 | 2026-08-04 |
 
 ## 近7天妙记列表
+
+### 2026-08-04 (周二) — 2 场
+
+| # | 标题 | Token | 开始时间 | 时长 | 状态 |
+|---|------|-------|----------|------|------|
+| 1 | 浚宇的视频会议 | `obcn73c2...327m` | 00:38 | 43 分 55 秒 | ✅ |
+| 2 | 浚宇的视频会议 | `obcn73tx...33f9` | 00:29 | 9 分 3 秒 | ✅ |
 
 ### 2026-08-02 (周日) — 1 场
 
@@ -44,14 +52,6 @@
 | 3 | 浚宇的视频会议 | `obcn3qp8...98k2` | 16:13 | 2 分 33 秒 | ✅ |
 | 4 | 浚宇的视频会议 | `obcn3p2k...u356` | 15:28 | 44 分 35 秒 | ✅ |
 
-### 2026-07-27 (周一) — 3 场
-
-| # | 标题 | Token | 开始时间 | 时长 | 状态 |
-|---|------|-------|----------|------|------|
-| 1 | 浚宇的视频会议 | `obcn29qh...l26z` | 23:43 | 1 小时 37 分 39 秒 | ✅ |
-| 2 | 浚宇的视频会议 | `obcn2458...19dm` | 18:08 | 11 分 47 秒 | ✅ |
-| 3 | 老谢教练对话支持 | `obcn2t56...b6q5` | 08:12 | 1 小时 0 分 9 秒 | ✅ |
-
 ### 2026-08-03 (周一) — 0 场
 
 _今日暂无妙记。_
@@ -68,6 +68,8 @@ _今日暂无妙记。_
 
 | 标题 | 链接 |
 |------|------|
+| 浚宇的视频会议 | https://rcnsiaef7x5y.feishu.cn/minutes/obcn73c25tlo2o15e5m7327m |
+| 浚宇的视频会议 | https://rcnsiaef7x5y.feishu.cn/minutes/obcn73tx7n3o86i8fa4e33f9 |
 | 浚宇的视频会议 | https://rcnsiaef7x5y.feishu.cn/minutes/obcn6wj4z6r85nr986uyzd28 |
 | 浚宇的视频会议 | https://rcnsiaef7x5y.feishu.cn/minutes/obcn5v73u4xhnj169b77c9a6 |
 | 浚宇的视频会议 | https://rcnsiaef7x5y.feishu.cn/minutes/obcn5u81lwh19y7dr5mfv2ay |
@@ -77,6 +79,3 @@ _今日暂无妙记。_
 | C-吐槽小会-50期 | https://rcnsiaef7x5y.feishu.cn/minutes/obcn3v8t7cu7x57kb2swcz99 |
 | 浚宇的视频会议 | https://rcnsiaef7x5y.feishu.cn/minutes/obcn3qp8tndb6yzl3p4298k2 |
 | 浚宇的视频会议 | https://rcnsiaef7x5y.feishu.cn/minutes/obcn3p2kxu5x6jt5o9e5u356 |
-| 浚宇的视频会议 | https://rcnsiaef7x5y.feishu.cn/minutes/obcn29qhvc44n61zl46dl26z |
-| 浚宇的视频会议 | https://rcnsiaef7x5y.feishu.cn/minutes/obcn2458n22rffph9crb19dm |
-| 老谢教练对话支持 | https://rcnsiaef7x5y.feishu.cn/minutes/obcn2t564ee5m42v46r6b6q5 |
