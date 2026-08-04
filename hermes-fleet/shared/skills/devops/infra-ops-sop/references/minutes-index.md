@@ -1,27 +1,35 @@
 # 飞书妙记索引
 
-> 最后更新: 2026-08-04 (cron: minutes-index-daily-sync)
-> 数据范围: 近7天 (2026-07-28 ~ 2026-08-04)
+> 最后更新: 2026-08-05 (cron: minutes-index-daily-sync)
+> 数据范围: 近7天 (2026-07-29 ~ 2026-08-05)
 > 搜索身份: user (浚宇)
 
 ## 统计概览
 
 | 指标 | 数值 |
 |------|------|
-| 近7天总数 | 11 |
-| 近24h新增 | 2 |
-| 新增明细 | `obcn73c2` — 浚宇的视频会议 (2026-08-04 00:38, 43 分 55 秒) |
-|  | `obcn73tx` — 浚宇的视频会议 (2026-08-04 00:29, 9 分 3 秒) |
-| 搜索时间 | 2026-08-04 |
+| 近7天总数 | 10 |
+| 近24h新增 | 3 |
+| 新增明细 | `obcn8qzaw` — 浚宇的视频会议 (2026-08-04 23:19, 32 分 25 秒) |
+|  | `obcn8pnl` — 浚宇的视频会议 (2026-08-04 22:34, 44 分 28 秒) |
+|  | `obcn8ni1` — 浚宇的视频会议 (2026-08-04 20:17, 9 秒) |
+| 搜索时间 | 2026-08-05 |
 
 ## 近7天妙记列表
 
-### 2026-08-04 (周二) — 2 场
+### 2026-08-04 (周二) — 5 场
 
 | # | 标题 | Token | 开始时间 | 时长 | 状态 |
 |---|------|-------|----------|------|------|
-| 1 | 浚宇的视频会议 | `obcn73c2...327m` | 00:38 | 43 分 55 秒 | ✅ |
-| 2 | 浚宇的视频会议 | `obcn73tx...33f9` | 00:29 | 9 分 3 秒 | ✅ |
+| 1 | 🆕 浚宇的视频会议 | `obcn8qza...pyan` | 23:19 | 32 分 25 秒 | ✅ |
+| 2 | 🆕 浚宇的视频会议 | `obcn8pnl...474z` | 22:34 | 44 分 28 秒 | ✅ |
+| 3 | 🆕 浚宇的视频会议 | `obcn8ni1...2q96` | 20:17 | 9 秒 | ✅ |
+| 4 | 浚宇的视频会议 | `obcn73c2...327m` | 00:38 | 43 分 55 秒 | ✅ |
+| 5 | 浚宇的视频会议 | `obcn73tx...33f9` | 00:29 | 9 分 3 秒 | ✅ |
+
+### 2026-08-05 (周三) — 0 场
+
+_今日暂无妙记。_
 
 ### 2026-08-02 (周日) — 1 场
 
@@ -43,15 +51,6 @@
 | 1 | 浚宇的视频会议 | `obcn4jy4...z53l` | 20:10 | 10 分 13 秒 | ✅ |
 | 2 | 浚宇的视频会议 | `obcn4aqa...fex4` | 11:09 | 50 分 53 秒 | ✅ |
 
-### 2026-07-28 (周二) — 4 场
-
-| # | 标题 | Token | 开始时间 | 时长 | 状态 |
-|---|------|-------|----------|------|------|
-| 1 | 浚宇的视频会议 | `obcn3xu9...32q7` | 23:59 | 55 分 8 秒 | ✅ |
-| 2 | C-吐槽小会-50期 | `obcn3v8t...cz99` | 21:01 | 1 小时 52 分 20 秒 | ✅ |
-| 3 | 浚宇的视频会议 | `obcn3qp8...98k2` | 16:13 | 2 分 33 秒 | ✅ |
-| 4 | 浚宇的视频会议 | `obcn3p2k...u356` | 15:28 | 44 分 35 秒 | ✅ |
-
 ### 2026-08-03 (周一) — 0 场
 
 _今日暂无妙记。_
@@ -68,6 +67,9 @@ _今日暂无妙记。_
 
 | 标题 | 链接 |
 |------|------|
+| 🆕 浚宇的视频会议 | https://rcnsiaef7x5y.feishu.cn/minutes/obcn8qzaw7uj6pa5z7pepyan |
+| 🆕 浚宇的视频会议 | https://rcnsiaef7x5y.feishu.cn/minutes/obcn8pnle1547a14x9l8474z |
+| 🆕 浚宇的视频会议 | https://rcnsiaef7x5y.feishu.cn/minutes/obcn8ni1s57eosq54qjq2q96 |
 | 浚宇的视频会议 | https://rcnsiaef7x5y.feishu.cn/minutes/obcn73c25tlo2o15e5m7327m |
 | 浚宇的视频会议 | https://rcnsiaef7x5y.feishu.cn/minutes/obcn73tx7n3o86i8fa4e33f9 |
 | 浚宇的视频会议 | https://rcnsiaef7x5y.feishu.cn/minutes/obcn6wj4z6r85nr986uyzd28 |
@@ -75,7 +77,3 @@ _今日暂无妙记。_
 | 浚宇的视频会议 | https://rcnsiaef7x5y.feishu.cn/minutes/obcn5u81lwh19y7dr5mfv2ay |
 | 浚宇的视频会议 | https://rcnsiaef7x5y.feishu.cn/minutes/obcn4jy41d86j2664792z53l |
 | 浚宇的视频会议 | https://rcnsiaef7x5y.feishu.cn/minutes/obcn4aqaysdpe8rc6173fex4 |
-| 浚宇的视频会议 | https://rcnsiaef7x5y.feishu.cn/minutes/obcn3xu9sy1i9f5b3i2332q7 |
-| C-吐槽小会-50期 | https://rcnsiaef7x5y.feishu.cn/minutes/obcn3v8t7cu7x57kb2swcz99 |
-| 浚宇的视频会议 | https://rcnsiaef7x5y.feishu.cn/minutes/obcn3qp8tndb6yzl3p4298k2 |
-| 浚宇的视频会议 | https://rcnsiaef7x5y.feishu.cn/minutes/obcn3p2kxu5x6jt5o9e5u356 |
