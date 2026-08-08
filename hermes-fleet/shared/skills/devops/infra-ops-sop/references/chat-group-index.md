@@ -1,6 +1,6 @@
 # 📋 飞书群聊索引
 
-> 最后更新: 2026-08-08
+> 最后更新: 2026-08-09
 > 数据源: `lark-cli im +chat-list --as user --sort-type ByActiveTimeDesc`
 
 ## 统计概览
@@ -24,13 +24,13 @@
 
 | # | 群名 | chat_id | 类型 | 内外 | 免@ |
 |---|------|---------|------|------|-----|
-| 1 | 课题突破 | `oc_88c36062f883f6bc971f80b2098e7fae` | 话题 | 外部 |  |
-| 2 | 飞书 CLI 交流互助群（2 群） ｜Lark CLI Communication & Support (Group2) | `oc_b12927e59ee30de4fbc4b8b0d5adfc96` | 话题 | 外部 |  |
+| 1 | AI时代超级个体修炼群③ | `oc_2bfc02063ccd1a97e74ea139ca23fae6` | 群聊 | 外部 |  |
+| 2 | 多维表格 Maker 大本营｜3群 | `oc_266c65b3e698e2e44992979d68b2c99b` | 群聊 | 外部 |  |
 | 3 | 【5群】AutoClaw Bots 用户群 | `oc_c7891ec18b28d6ebc79ad3c0204680bd` | 群聊 | 外部 |  |
 | 4 | AI Builder Demo Day | `oc_896773b99ac9f48731afd87de40159bb` | 群聊 | 外部 |  |
-| 5 | 小肥肥护卫队 | `oc_3b49ff0064d823d7464900efb051193a` | 群聊 | 外部 |  |
-| 6 | 多维表格 Maker 大本营｜3群 | `oc_266c65b3e698e2e44992979d68b2c99b` | 群聊 | 外部 |  |
-| 7 | AI时代超级个体修炼群③ | `oc_2bfc02063ccd1a97e74ea139ca23fae6` | 群聊 | 外部 |  |
+| 5 | 课题突破 | `oc_88c36062f883f6bc971f80b2098e7fae` | 话题 | 外部 |  |
+| 6 | 飞书 CLI 交流互助群（2 群） ｜Lark CLI Communication & Support (Group2) | `oc_b12927e59ee30de4fbc4b8b0d5adfc96` | 话题 | 外部 |  |
+| 7 | 小肥肥护卫队 | `oc_3b49ff0064d823d7464900efb051193a` | 群聊 | 外部 |  |
 | 8 | C9-开学典礼-AI军团内部群 | `oc_4f67152e69f5f021959172c29f04ac2b` | 群聊 | 外部 |  |
 | 9 | 开学典礼-AI agent专项组 | `oc_09149fb078620f461b676bbdd1549acf` | 群聊 | 外部 |  |
 | 10 | 玉洁陪跑-7.21-10.20 | `oc_563e4ff8b0fd86bdb458d2153b24aa8b` | 群聊 | 外部 |  |
