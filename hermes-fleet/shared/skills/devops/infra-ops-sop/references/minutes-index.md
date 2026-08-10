@@ -10,11 +10,7 @@
 |------|------|
 | 近7天总数 | 13 |
 | 近24h新增 | 0 |
-| 新增明细 | `obcn8qzaw7uj6pa5z7pepyan` — 浚宇的视频会议 (2026-08-04 23:19:44, 32 分 25 秒)  
-`obcn8pnle1547a14x9l8474z` — 浚宇的视频会议 (2026-08-04 22:34:55, 44 分 28 秒)  
-`obcn8ni1s57eosq54qjq2q96` — 浚宇的视频会议 (2026-08-04 20:17:14, 9 秒)  
-`obcn73c25tlo2o15e5m7327m` — 浚宇的视频会议 (2026-08-04 00:38:09, 43 分 55 秒)  
-`obcn73tx7n3o86i8fa4e33f9` — 浚宇的视频会议 (2026-08-04 00:29:09, 9 分 3 秒) |
+| 新增明细 | 无新增妙记 |
 | 搜索时间 | 2026-08-11 |
 
 ## 近7天妙记列表
@@ -64,11 +60,11 @@ _今日暂无妙记。_
 
 | # | 标题 | Token | 开始时间 | 时长 | 状态 |
 |---|------|-------|----------|------|------|
-| 1 | 🆕 浚宇的视频会议 | `obcn8qzaw7uj6pa5z7pepyan` | 23:19 | 32 分 25 秒 | ✅ |
-| 2 | 🆕 浚宇的视频会议 | `obcn8pnle1547a14x9l8474z` | 22:34 | 44 分 28 秒 | ✅ |
-| 3 | 🆕 浚宇的视频会议 | `obcn8ni1s57eosq54qjq2q96` | 20:17 | 9 秒 | ✅ |
-| 4 | 🆕 浚宇的视频会议 | `obcn73c25tlo2o15e5m7327m` | 00:38 | 43 分 55 秒 | ✅ |
-| 5 | 🆕 浚宇的视频会议 | `obcn73tx7n3o86i8fa4e33f9` | 00:29 | 9 分 3 秒 | ✅ |
+| 1 | 浚宇的视频会议 | `obcn8qzaw7uj6pa5z7pepyan` | 23:19 | 32 分 25 秒 | ✅ |
+| 2 | 浚宇的视频会议 | `obcn8pnle1547a14x9l8474z` | 22:34 | 44 分 28 秒 | ✅ |
+| 3 | 浚宇的视频会议 | `obcn8ni1s57eosq54qjq2q96` | 20:17 | 9 秒 | ✅ |
+| 4 | 浚宇的视频会议 | `obcn73c25tlo2o15e5m7327m` | 00:38 | 43 分 55 秒 | ✅ |
+| 5 | 浚宇的视频会议 | `obcn73tx7n3o86i8fa4e33f9` | 00:29 | 9 分 3 秒 | ✅ |
 
 ## 链接速查
 
@@ -82,8 +78,8 @@ _今日暂无妙记。_
 | 浚宇的视频会议 | https://rcnsiaef7x5y.feishu.cn/minutes/obcn9h983667vp3h5u716ypj |
 | 浚宇的视频会议 | https://rcnsiaef7x5y.feishu.cn/minutes/obcn9ftdau1dn73w39q1cu3v |
 | 浚宇的视频会议 | https://rcnsiaef7x5y.feishu.cn/minutes/obcn81greh87h4m3h7o1bwf1 |
-| 🆕 浚宇的视频会议 | https://rcnsiaef7x5y.feishu.cn/minutes/obcn8qzaw7uj6pa5z7pepyan |
-| 🆕 浚宇的视频会议 | https://rcnsiaef7x5y.feishu.cn/minutes/obcn8pnle1547a14x9l8474z |
-| 🆕 浚宇的视频会议 | https://rcnsiaef7x5y.feishu.cn/minutes/obcn8ni1s57eosq54qjq2q96 |
-| 🆕 浚宇的视频会议 | https://rcnsiaef7x5y.feishu.cn/minutes/obcn73c25tlo2o15e5m7327m |
-| 🆕 浚宇的视频会议 | https://rcnsiaef7x5y.feishu.cn/minutes/obcn73tx7n3o86i8fa4e33f9 |
+| 浚宇的视频会议 | https://rcnsiaef7x5y.feishu.cn/minutes/obcn8qzaw7uj6pa5z7pepyan |
+| 浚宇的视频会议 | https://rcnsiaef7x5y.feishu.cn/minutes/obcn8pnle1547a14x9l8474z |
+| 浚宇的视频会议 | https://rcnsiaef7x5y.feishu.cn/minutes/obcn8ni1s57eosq54qjq2q96 |
+| 浚宇的视频会议 | https://rcnsiaef7x5y.feishu.cn/minutes/obcn73c25tlo2o15e5m7327m |
+| 浚宇的视频会议 | https://rcnsiaef7x5y.feishu.cn/minutes/obcn73tx7n3o86i8fa4e33f9 |
