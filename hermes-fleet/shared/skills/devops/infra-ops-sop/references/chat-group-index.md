@@ -1,6 +1,6 @@
 # 📋 飞书群聊索引
 
-> 最后更新: 2026-08-11
+> 最后更新: 2026-08-12
 > 数据源: `lark-cli im +chat-list --as user --sort-type ByActiveTimeDesc`
 
 ## 统计概览
@@ -24,21 +24,21 @@
 
 | # | 群名 | chat_id | 类型 | 内外 | 免@ |
 |---|------|---------|------|------|-----|
-| 1 | 【5群】AutoClaw Bots 用户群 | `oc_c7891ec18b28d6ebc79ad3c0204680bd` | 群聊 | 外部 |  |
-| 2 | AI时代超级个体修炼群③ | `oc_2bfc02063ccd1a97e74ea139ca23fae6` | 群聊 | 外部 |  |
-| 3 | AI Builder Demo Day | `oc_896773b99ac9f48731afd87de40159bb` | 群聊 | 外部 |  |
-| 4 | 飞书 CLI 交流互助群（2 群） ｜Lark CLI Communication & Support (Group2) | `oc_b12927e59ee30de4fbc4b8b0d5adfc96` | 话题 | 外部 |  |
-| 5 | 多维表格 Maker 大本营｜3群 | `oc_266c65b3e698e2e44992979d68b2c99b` | 群聊 | 外部 |  |
-| 6 | 产品IDEA | `oc_71ac4176969d0705bbefd26f447f5b05` | 话题 | 外部 |  |
-| 7 | 课题突破 | `oc_88c36062f883f6bc971f80b2098e7fae` | 话题 | 外部 |  |
-| 8 | 小肥肥护卫队 | `oc_3b49ff0064d823d7464900efb051193a` | 群聊 | 外部 |  |
-| 9 | C9-开学典礼-AI军团内部群 | `oc_4f67152e69f5f021959172c29f04ac2b` | 群聊 | 外部 |  |
-| 10 | 开学典礼-AI agent专项组 | `oc_09149fb078620f461b676bbdd1549acf` | 群聊 | 外部 |  |
-| 11 | 玉洁陪跑-7.21-10.20 | `oc_563e4ff8b0fd86bdb458d2153b24aa8b` | 群聊 | 外部 |  |
-| 12 | 星星一起搞事情 | `oc_8f82557b9650b4cfdda5f188b189341f` | 群聊 | 外部 |  |
-| 13 | 学习搭子-吃青蛙 | `oc_9d8f61173f513936da6f30803e2ff7c5` | 话题 | 外部 |  |
-| 14 | 潞晨2026年度团体补充医疗沟通 | `oc_97cf6558bb17b589813fe975bae74244` | 群聊 | 外部 |  |
-| 15 | 搞钱研究社 | `oc_476397b2a29d9be38855aa5c3c36bfd9` | 群聊 | 外部 |  |
+| 1 | 课题突破 | `oc_88c36062f883f6bc971f80b2098e7fae` | 话题 | 外部 |  |
+| 2 | 【5群】AutoClaw Bots 用户群 | `oc_c7891ec18b28d6ebc79ad3c0204680bd` | 群聊 | 外部 |  |
+| 3 | 飞书 CLI 交流互助群（2 群） ｜Lark CLI Communication & Support (Group2) | `oc_b12927e59ee30de4fbc4b8b0d5adfc96` | 话题 | 外部 |  |
+| 4 | 小肥肥护卫队 | `oc_3b49ff0064d823d7464900efb051193a` | 群聊 | 外部 |  |
+| 5 | AI时代超级个体修炼群③ | `oc_2bfc02063ccd1a97e74ea139ca23fae6` | 群聊 | 外部 |  |
+| 6 | 搞钱研究社 | `oc_476397b2a29d9be38855aa5c3c36bfd9` | 群聊 | 外部 |  |
+| 7 | AI Builder Demo Day | `oc_896773b99ac9f48731afd87de40159bb` | 群聊 | 外部 |  |
+| 8 | 多维表格 Maker 大本营｜3群 | `oc_266c65b3e698e2e44992979d68b2c99b` | 群聊 | 外部 |  |
+| 9 | 产品IDEA | `oc_71ac4176969d0705bbefd26f447f5b05` | 话题 | 外部 |  |
+| 10 | C9-开学典礼-AI军团内部群 | `oc_4f67152e69f5f021959172c29f04ac2b` | 群聊 | 外部 |  |
+| 11 | 开学典礼-AI agent专项组 | `oc_09149fb078620f461b676bbdd1549acf` | 群聊 | 外部 |  |
+| 12 | 玉洁陪跑-7.21-10.20 | `oc_563e4ff8b0fd86bdb458d2153b24aa8b` | 群聊 | 外部 |  |
+| 13 | 星星一起搞事情 | `oc_8f82557b9650b4cfdda5f188b189341f` | 群聊 | 外部 |  |
+| 14 | 学习搭子-吃青蛙 | `oc_9d8f61173f513936da6f30803e2ff7c5` | 话题 | 外部 |  |
+| 15 | 潞晨2026年度团体补充医疗沟通 | `oc_97cf6558bb17b589813fe975bae74244` | 群聊 | 外部 |  |
 | 16 | 康康陪跑-6.4-9.3 | `oc_227dda7fd76cf0004921a079e09d1823` | 群聊 | 外部 |  |
 | 17 | C-AI-数据归集组 | `oc_f971f0a5940d6fa154036390dad68207` | 群聊 | 外部 |  |
 | 18 | 浚宇, Harry Zheng | `oc_59d3b19238fce19f875f811105d5d50f` | 群聊 | 外部 |  |
@@ -90,18 +90,18 @@
 
 | chat_id | 群名 |
 |---------|------|
-| `oc_b54b6874ecb0ef2f7802c233d7b661b7` | AI工作流 |
-| `oc_5aec78b434f3ec96f9979dd5c531be91` | C旅程 |
-| `oc_85ec86561823e6c7b4c3ca8a07176569` | Inbox |
-| `oc_4ce4a0ae2efe9e0b69677f544043dfe5` | Tapon测试 |
-| `oc_5ef10375f44ceccd1784aa07cce448c3` | 与人交流 |
-| `oc_46ea325a4161aeb574fce76a739bb16c` | 业务相关 |
-| `oc_ab058974c1679965277e2ad127f03f49` | 保存的飞书 |
-| `oc_a3a93b7dbc9ac5b6a83540b5ce0131df` | 我的提醒 |
 | `oc_288a700f2f94ffbc73291db187dc0ca4` | 服务器告警 |
+| `oc_46ea325a4161aeb574fce76a739bb16c` | 业务相关 |
 | `oc_482e9067d4cd4bb64cfa4b00e796c045` | 核心目标 |
-| `oc_615ba6bd0b3d1c92cff3df9064316d43` | 育儿知识 |
+| `oc_4ce4a0ae2efe9e0b69677f544043dfe5` | Tapon测试 |
 | `oc_552970581f3e8a908e2c4b48f1b41ac5` | 输出 |
+| `oc_5aec78b434f3ec96f9979dd5c531be91` | C旅程 |
+| `oc_5ef10375f44ceccd1784aa07cce448c3` | 与人交流 |
+| `oc_615ba6bd0b3d1c92cff3df9064316d43` | 育儿知识 |
+| `oc_85ec86561823e6c7b4c3ca8a07176569` | Inbox |
+| `oc_a3a93b7dbc9ac5b6a83540b5ce0131df` | 我的提醒 |
+| `oc_ab058974c1679965277e2ad127f03f49` | 保存的飞书 |
+| `oc_b54b6874ecb0ef2f7802c233d7b661b7` | AI工作流 |
 
 ---
 *此文件由每日 cron 自动生成，手动编辑将被覆盖。*
