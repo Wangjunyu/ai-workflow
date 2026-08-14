@@ -1,6 +1,6 @@
 # 📋 飞书群聊索引
 
-> 最后更新: 2026-08-14
+> 最后更新: 2026-08-15
 > 数据源: `lark-cli im +chat-list --as user --sort-type ByActiveTimeDesc`
 
 ## 统计概览
@@ -16,8 +16,7 @@
 
 ## 本次变化
 
-- 新增: `oc_3215aa4540575e778c15ceb6dc2569e8` 浚宇, 曾梦琪
-
+无新增群聊。
 无退出群聊。
 
 ## 群聊列表
@@ -25,13 +24,13 @@
 | # | 群名 | chat_id | 类型 | 内外 | 免@ |
 |---|------|---------|------|------|-----|
 | 1 | 【5群】AutoClaw Bots 用户群 | `oc_c7891ec18b28d6ebc79ad3c0204680bd` | 群聊 | 外部 |  |
-| 2 | 飞书 CLI 交流互助群（2 群） ｜Lark CLI Communication & Support (Group2) | `oc_b12927e59ee30de4fbc4b8b0d5adfc96` | 话题 | 外部 |  |
-| 3 | 浚宇, 曾梦琪 | `oc_3215aa4540575e778c15ceb6dc2569e8` | 群聊 | 外部 |  |
-| 4 | AI Builder Demo Day | `oc_896773b99ac9f48731afd87de40159bb` | 群聊 | 外部 |  |
-| 5 | 多维表格 Maker 大本营｜3群 | `oc_266c65b3e698e2e44992979d68b2c99b` | 群聊 | 外部 |  |
-| 6 | AI时代超级个体修炼群③ | `oc_2bfc02063ccd1a97e74ea139ca23fae6` | 群聊 | 外部 |  |
-| 7 | 康康陪跑-6.4-9.3 | `oc_227dda7fd76cf0004921a079e09d1823` | 群聊 | 外部 |  |
-| 8 | 课题突破 | `oc_88c36062f883f6bc971f80b2098e7fae` | 话题 | 外部 |  |
+| 2 | 课题突破 | `oc_88c36062f883f6bc971f80b2098e7fae` | 话题 | 外部 |  |
+| 3 | AI时代超级个体修炼群③ | `oc_2bfc02063ccd1a97e74ea139ca23fae6` | 群聊 | 外部 |  |
+| 4 | 多维表格 Maker 大本营｜3群 | `oc_266c65b3e698e2e44992979d68b2c99b` | 群聊 | 外部 |  |
+| 5 | AI Builder Demo Day | `oc_896773b99ac9f48731afd87de40159bb` | 群聊 | 外部 |  |
+| 6 | 飞书 CLI 交流互助群（2 群） ｜Lark CLI Communication & Support (Group2) | `oc_b12927e59ee30de4fbc4b8b0d5adfc96` | 话题 | 外部 |  |
+| 7 | 浚宇, 曾梦琪 | `oc_3215aa4540575e778c15ceb6dc2569e8` | 群聊 | 外部 |  |
+| 8 | 康康陪跑-6.4-9.3 | `oc_227dda7fd76cf0004921a079e09d1823` | 群聊 | 外部 |  |
 | 9 | 小肥肥护卫队 | `oc_3b49ff0064d823d7464900efb051193a` | 群聊 | 外部 |  |
 | 10 | 搞钱研究社 | `oc_476397b2a29d9be38855aa5c3c36bfd9` | 群聊 | 外部 |  |
 | 11 | 产品IDEA | `oc_71ac4176969d0705bbefd26f447f5b05` | 话题 | 外部 |  |
