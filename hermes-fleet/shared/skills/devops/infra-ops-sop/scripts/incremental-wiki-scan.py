@@ -112,6 +112,7 @@ add_children("MFDKwCRzjiCBzakNXhMc1JBvn8b",  # 徐正乔
 )
 add_children("XEL9wk9AOisOUXk8zywcRreInee",  # 康康
     ("UUFIwZsYliBnj1kA5CPc71m9nyg", "康康教练对话-督导.xlsx", False),
+    ("Ho8qwB9OPiz4rmkCn2DcYZRKnEh", "康康-交流沟通（资产房产购置说明）", False),
     ("PLC2wV49MiR9Nnkoc00clIUanG5", "康康交付文档清单", True),
 )
 add_children("Uks3wWAF7il4ZUkXvvycS5S5noQ",  # 丁雅华

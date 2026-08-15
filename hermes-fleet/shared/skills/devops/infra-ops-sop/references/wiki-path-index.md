@@ -141,6 +141,7 @@
 | 节点名 | node_token | has_child |
 |--------|-----------|-----------|
 | 康康教练对话-督导.xlsx | UUFIwZsYliBnj1kA5CPc71m9nyg | false |
+| 康康-交流沟通（资产房产购置说明） | Ho8qwB9OPiz4rmkCn2DcYZRKnEh | false |
 | 康康交付文档清单 | PLC2wV49MiR9Nnkoc00clIUanG5 | true |
 
 ### 康康 → 康康交付文档清单 → 子节点
