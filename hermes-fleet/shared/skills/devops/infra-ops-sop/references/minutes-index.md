@@ -1,19 +1,23 @@
 # 飞书妙记索引
 
-> 最后更新: 2026-08-16 (cron: minutes-index-daily-sync)
-> 数据范围: 近7天 (2026-08-09 ~ 2026-08-16)
+> 最后更新: 2026-08-17 (cron: minutes-index-daily-sync)
+> 数据范围: 近7天 (2026-08-10 ~ 2026-08-17)
 > 搜索身份: user (浚宇)
 
 ## 统计概览
 
 | 指标 | 数值 |
 |------|------|
-| 近7天总数 | 9 |
-| 近24h新增 | 1 |
-| 新增明细 | `obcnft6y18t7a2l3grtt1s99` — 康康-对话交流 (2026-08-15 07:58:55, 1 小时 10 分 21 秒) |
-| 搜索时间 | 2026-08-16 |
+| 近7天总数 | 7 |
+| 近24h新增 | 0 |
+| 新增明细 | 无新增妙记 |
+| 搜索时间 | 2026-08-17 |
 
 ## 近7天妙记列表
+
+### 2026-08-17 (周一) — 0 场
+
+_今日暂无妙记。_
 
 ### 2026-08-16 (周日) — 0 场
 
@@ -23,7 +27,7 @@ _今日暂无妙记。_
 
 | # | 标题 | Token | 开始时间 | 时长 | 状态 |
 |---|------|-------|----------|------|------|
-| 1 | 🆕 康康-对话交流 | `obcnft6y18t7a2l3grtt1s99` | 07:58 | 1 小时 10 分 21 秒 | ✅ |
+| 1 | 康康-对话交流 | `obcnft6y18t7a2l3grtt1s99` | 07:58 | 1 小时 10 分 21 秒 | ✅ |
 
 ### 2026-08-14 (周五) — 2 场
 
@@ -55,23 +59,14 @@ _今日暂无妙记。_
 
 _今日暂无妙记。_
 
-### 2026-08-09 (周日) — 2 场
-
-| # | 标题 | Token | 开始时间 | 时长 | 状态 |
-|---|------|-------|----------|------|------|
-| 1 | 浚宇的视频会议 | `obcnb5q2dl4m7f6s11nne5zv` | 22:53 | 4 小时 3 分 8 秒 | ✅ |
-| 2 | 浚宇的视频会议 | `obcnb3c6y4q85332pycn8e93` | 20:13 | 18 分 45 秒 | ✅ |
-
 ## 链接速查
 
 | 标题 | 链接 |
 |------|------|
-| 🆕 康康-对话交流 | https://rcnsiaef7x5y.feishu.cn/minutes/obcnft6y18t7a2l3grtt1s99 |
+| 康康-对话交流 | https://rcnsiaef7x5y.feishu.cn/minutes/obcnft6y18t7a2l3grtt1s99 |
 | 浚宇的视频会议 | https://rcnsiaef7x5y.feishu.cn/minutes/obcnfgae8lleu842628qa178 |
 | 浚宇的视频会议 | https://rcnsiaef7x5y.feishu.cn/minutes/obcne7995ta77h219io8nd42 |
 | 荒岛-厦门 | https://rcnsiaef7x5y.feishu.cn/minutes/obcnep5fc5551ewro4mrxb4m |
 | 浚宇的视频会议 | https://rcnsiaef7x5y.feishu.cn/minutes/obcndll7c83kg83t25ep9765 |
 | 浚宇的视频会议 | https://rcnsiaef7x5y.feishu.cn/minutes/obcndf26vex82rk9vry5mhmv |
 | 浚宇的视频会议 | https://rcnsiaef7x5y.feishu.cn/minutes/obcnc5vo9hgr7s597u6zb6a1 |
-| 浚宇的视频会议 | https://rcnsiaef7x5y.feishu.cn/minutes/obcnb5q2dl4m7f6s11nne5zv |
-| 浚宇的视频会议 | https://rcnsiaef7x5y.feishu.cn/minutes/obcnb3c6y4q85332pycn8e93 |
