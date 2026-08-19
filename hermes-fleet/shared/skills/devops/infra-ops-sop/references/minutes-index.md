@@ -1,29 +1,38 @@
 # 飞书妙记索引
 
-> 最后更新: 2026-08-19 (cron: minutes-index-daily-sync)
-> 数据范围: 近7天 (2026-08-12 ~ 2026-08-19)
+> 最后更新: 2026-08-20 (cron: minutes-index-daily-sync)
+> 数据范围: 近7天 (2026-08-13 ~ 2026-08-20)
 > 搜索身份: user (浚宇)
 
 ## 统计概览
 
 | 指标 | 数值 |
 |------|------|
-| 近7天总数 | 7 |
-| 近24h新增 | 1 |
-| 新增明细 | `obcnhxvm7l1pkj63434x72h5` — 浚宇的视频会议 (2026-08-18 09:22:19, 19 分 3 秒) |
-| 搜索时间 | 2026-08-19 |
+| 近7天总数 | 8 |
+| 近24h新增 | 2 |
+| 新增明细 | `obcni276t4u9qx5887511v65` — 浚宇的视频会议 (2026-08-20 00:38:09, 3 小时 3 分 11 秒)  
+`obcni1e2l2a86i1hm9272562` — 浚宇的视频会议 (2026-08-19 23:55:16, 13 分 42 秒) |
+| 搜索时间 | 2026-08-20 |
 
 ## 近7天妙记列表
 
-### 2026-08-19 (周三) — 0 场
+### 2026-08-20 (周四) — 1 场
 
-_今日暂无妙记。_
+| # | 标题 | Token | 开始时间 | 时长 | 状态 |
+|---|------|-------|----------|------|------|
+| 1 | 🆕 浚宇的视频会议 | `obcni276t4u9qx5887511v65` | 00:38 | 3 小时 3 分 11 秒 | ✅ |
+
+### 2026-08-19 (周三) — 1 场
+
+| # | 标题 | Token | 开始时间 | 时长 | 状态 |
+|---|------|-------|----------|------|------|
+| 1 | 🆕 浚宇的视频会议 | `obcni1e2l2a86i1hm9272562` | 23:55 | 13 分 42 秒 | ✅ |
 
 ### 2026-08-18 (周二) — 1 场
 
 | # | 标题 | Token | 开始时间 | 时长 | 状态 |
 |---|------|-------|----------|------|------|
-| 1 | 🆕 浚宇的视频会议 | `obcnhxvm7l1pkj63434x72h5` | 09:22 | 19 分 3 秒 | ✅ |
+| 1 | 浚宇的视频会议 | `obcnhxvm7l1pkj63434x72h5` | 09:22 | 19 分 3 秒 | ✅ |
 
 ### 2026-08-17 (周一) — 1 场
 
@@ -54,20 +63,15 @@ _今日暂无妙记。_
 |---|------|-------|----------|------|------|
 | 1 | 荒岛-厦门 | `obcnep5fc5551ewro4mrxb4m` | 16:06 | 31 分 5 秒 | ✅ |
 
-### 2026-08-12 (周三) — 1 场
-
-| # | 标题 | Token | 开始时间 | 时长 | 状态 |
-|---|------|-------|----------|------|------|
-| 1 | 浚宇的视频会议 | `obcndll7c83kg83t25ep9765` | 01:45 | 37 分 22 秒 | ✅ |
-
 ## 链接速查
 
 | 标题 | 链接 |
 |------|------|
-| 🆕 浚宇的视频会议 | https://rcnsiaef7x5y.feishu.cn/minutes/obcnhxvm7l1pkj63434x72h5 |
+| 🆕 浚宇的视频会议 | https://rcnsiaef7x5y.feishu.cn/minutes/obcni276t4u9qx5887511v65 |
+| 🆕 浚宇的视频会议 | https://rcnsiaef7x5y.feishu.cn/minutes/obcni1e2l2a86i1hm9272562 |
+| 浚宇的视频会议 | https://rcnsiaef7x5y.feishu.cn/minutes/obcnhxvm7l1pkj63434x72h5 |
 | 小华-交流 | https://rcnsiaef7x5y.feishu.cn/minutes/obcnhe2wn8pte5q21mf97jy7 |
 | 康康-对话交流 | https://rcnsiaef7x5y.feishu.cn/minutes/obcnft6y18t7a2l3grtt1s99 |
 | 浚宇的视频会议 | https://rcnsiaef7x5y.feishu.cn/minutes/obcnfgae8lleu842628qa178 |
 | 浚宇的视频会议 | https://rcnsiaef7x5y.feishu.cn/minutes/obcne7995ta77h219io8nd42 |
 | 荒岛-厦门 | https://rcnsiaef7x5y.feishu.cn/minutes/obcnep5fc5551ewro4mrxb4m |
-| 浚宇的视频会议 | https://rcnsiaef7x5y.feishu.cn/minutes/obcndll7c83kg83t25ep9765 |
