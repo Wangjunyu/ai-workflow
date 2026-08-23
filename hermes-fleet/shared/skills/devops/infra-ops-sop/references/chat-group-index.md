@@ -1,6 +1,6 @@
 # 📋 飞书群聊索引
 
-> 最后更新: 2026-08-23
+> 最后更新: 2026-08-24
 > 数据源: `lark-cli im +chat-list --as user --sort-type ByActiveTimeDesc`
 
 ## 统计概览
@@ -24,11 +24,11 @@
 | # | 群名 | chat_id | 类型 | 内外 | 免@ |
 |---|------|---------|------|------|-----|
 | 1 | 【5群】AutoClaw Bots 用户群 | `oc_c7891ec18b28d6ebc79ad3c0204680bd` | 群聊 | 外部 |     |
-| 2 | AI时代超级个体修炼群③ | `oc_2bfc02063ccd1a97e74ea139ca23fae6` | 群聊 | 外部 |     |
-| 3 | 星星一起搞事情 | `oc_8f82557b9650b4cfdda5f188b189341f` | 群聊 | 外部 |     |
-| 4 | 飞书 CLI 交流互助群（2 群） ｜Lark CLI Communication & Support (Group2) | `oc_b12927e59ee30de4fbc4b8b0d5adfc96` | 话题 | 外部 |     |
-| 5 | 康康陪跑-6.4-9.3 | `oc_227dda7fd76cf0004921a079e09d1823` | 群聊 | 外部 |     |
-| 6 | AI Builder Demo Day | `oc_896773b99ac9f48731afd87de40159bb` | 群聊 | 外部 |     |
+| 2 | AI Builder Demo Day | `oc_896773b99ac9f48731afd87de40159bb` | 群聊 | 外部 |     |
+| 3 | AI时代超级个体修炼群③ | `oc_2bfc02063ccd1a97e74ea139ca23fae6` | 群聊 | 外部 |     |
+| 4 | 星星一起搞事情 | `oc_8f82557b9650b4cfdda5f188b189341f` | 群聊 | 外部 |     |
+| 5 | 飞书 CLI 交流互助群（2 群） ｜Lark CLI Communication & Support (Group2) | `oc_b12927e59ee30de4fbc4b8b0d5adfc96` | 话题 | 外部 |     |
+| 6 | 康康陪跑-6.4-9.3 | `oc_227dda7fd76cf0004921a079e09d1823` | 群聊 | 外部 |     |
 | 7 | 浚宇's Feishu Assistant | `oc_e14e90ee02a9116669456b8e5dc01dba` | 群聊 | 外部 |     |
 | 8 | 多维表格 Maker 大本营｜3群 | `oc_266c65b3e698e2e44992979d68b2c99b` | 群聊 | 外部 |     |
 | 9 | Inbox | `oc_85ec86561823e6c7b4c3ca8a07176569` | 话题 | 内部 | ✅  |
