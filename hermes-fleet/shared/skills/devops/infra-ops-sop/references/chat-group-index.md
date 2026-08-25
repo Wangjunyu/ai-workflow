@@ -1,6 +1,6 @@
 # 📋 飞书群聊索引
 
-> 最后更新: 2026-08-25
+> 最后更新: 2026-08-26
 > 数据源: `lark-cli im +chat-list --as user --sort-type ByActiveTimeDesc`
 
 ## 统计概览
@@ -23,17 +23,17 @@
 
 | # | 群名 | chat_id | 类型 | 内外 | 免@ |
 |---|------|---------|------|------|-----|
-| 1 | 多维表格 Maker 大本营｜3群 | `oc_266c65b3e698e2e44992979d68b2c99b` | 群聊 | 外部 |     |
-| 2 | 开学典礼-AI agent专项组 | `oc_09149fb078620f461b676bbdd1549acf` | 群聊 | 外部 |     |
-| 3 | 【5群】AutoClaw Bots 用户群 | `oc_c7891ec18b28d6ebc79ad3c0204680bd` | 群聊 | 外部 |     |
-| 4 | 浚宇's Feishu Assistant | `oc_e14e90ee02a9116669456b8e5dc01dba` | 群聊 | 外部 |     |
-| 5 | 飞书 CLI 交流互助群（2 群） ｜Lark CLI Communication & Support (Group2) | `oc_b12927e59ee30de4fbc4b8b0d5adfc96` | 话题 | 外部 |     |
-| 6 | 康康陪跑-6.4-9.3 | `oc_227dda7fd76cf0004921a079e09d1823` | 群聊 | 外部 |     |
-| 7 | AI Builder Demo Day | `oc_896773b99ac9f48731afd87de40159bb` | 群聊 | 外部 |     |
-| 8 | AI时代超级个体修炼群③ | `oc_2bfc02063ccd1a97e74ea139ca23fae6` | 群聊 | 外部 |     |
-| 9 | 星星一起搞事情 | `oc_8f82557b9650b4cfdda5f188b189341f` | 群聊 | 外部 |     |
-| 10 | Inbox | `oc_85ec86561823e6c7b4c3ca8a07176569` | 话题 | 内部 | ✅  |
-| 11 | 小肥肥护卫队 | `oc_3b49ff0064d823d7464900efb051193a` | 群聊 | 外部 |     |
+| 1 | 【5群】AutoClaw Bots 用户群 | `oc_c7891ec18b28d6ebc79ad3c0204680bd` | 群聊 | 外部 |     |
+| 2 | 多维表格 Maker 大本营｜3群 | `oc_266c65b3e698e2e44992979d68b2c99b` | 群聊 | 外部 |     |
+| 3 | AI Builder Demo Day | `oc_896773b99ac9f48731afd87de40159bb` | 群聊 | 外部 |     |
+| 4 | 开学典礼-AI agent专项组 | `oc_09149fb078620f461b676bbdd1549acf` | 群聊 | 外部 |     |
+| 5 | 小肥肥护卫队 | `oc_3b49ff0064d823d7464900efb051193a` | 群聊 | 外部 |     |
+| 6 | 浚宇's Feishu Assistant | `oc_e14e90ee02a9116669456b8e5dc01dba` | 群聊 | 外部 |     |
+| 7 | 飞书 CLI 交流互助群（2 群） ｜Lark CLI Communication & Support (Group2) | `oc_b12927e59ee30de4fbc4b8b0d5adfc96` | 话题 | 外部 |     |
+| 8 | 康康陪跑-6.4-9.3 | `oc_227dda7fd76cf0004921a079e09d1823` | 群聊 | 外部 |     |
+| 9 | AI时代超级个体修炼群③ | `oc_2bfc02063ccd1a97e74ea139ca23fae6` | 群聊 | 外部 |     |
+| 10 | 星星一起搞事情 | `oc_8f82557b9650b4cfdda5f188b189341f` | 群聊 | 外部 |     |
+| 11 | Inbox | `oc_85ec86561823e6c7b4c3ca8a07176569` | 话题 | 内部 | ✅  |
 | 12 | 搞钱研究社 | `oc_476397b2a29d9be38855aa5c3c36bfd9` | 群聊 | 外部 |     |
 | 13 | 课题突破 | `oc_88c36062f883f6bc971f80b2098e7fae` | 话题 | 外部 |     |
 | 14 | 浚宇, 曾梦琪 | `oc_3215aa4540575e778c15ceb6dc2569e8` | 群聊 | 外部 |     |
