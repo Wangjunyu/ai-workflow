@@ -1,31 +1,40 @@
 # 飞书妙记索引
 
-> 最后更新: 2026-08-27 (cron: minutes-index-daily-sync)
-> 数据范围: 近7天 (2026-08-20 ~ 2026-08-27)
+> 最后更新: 2026-08-28 (cron: minutes-index-daily-sync)
+> 数据范围: 近7天 (2026-08-21 ~ 2026-08-28)
 > 搜索身份: user (浚宇)
 
 ## 统计概览
 
 | 指标 | 数值 |
 |------|------|
-| 近7天总数 | 21 |
-| 近24h新增 | 2 |
-| 新增明细 | `obcnno349244q7h129wt3x1l` — 萌酱的视频会议 (2026-08-26 18:38:22, 40 分 16 秒)  
-`obcnnf4z6ejbs2x1gh6h9667` — 浚宇的视频会议 (2026-08-26 09:20:17, 18 分 24 秒) |
-| 搜索时间 | 2026-08-27 |
+| 近7天总数 | 22 |
+| 近24h新增 | 3 |
+| 新增明细 | `obcnodwjvntv3v92n4852e38` — 浚宇的视频会议 (2026-08-27 18:03:12, 23 分 36 秒)  
+`obcnoc65632h919qf4854j23` — 浚宇的视频会议 (2026-08-27 17:37:38, 20 分 54 秒)  
+`obcnn45mbf81ux86a166mmgk` — 浚宇的视频会议 (2026-08-27 09:55:36, 11 分 23 秒) |
+| 搜索时间 | 2026-08-28 |
 
 ## 近7天妙记列表
 
-### 2026-08-27 (周四) — 0 场
+### 2026-08-28 (周五) — 0 场
 
 _今日暂无妙记。_
+
+### 2026-08-27 (周四) — 3 场
+
+| # | 标题 | Token | 开始时间 | 时长 | 状态 |
+|---|------|-------|----------|------|------|
+| 1 | 🆕 浚宇的视频会议 | `obcnodwjvntv3v92n4852e38` | 18:03 | 23 分 36 秒 | ✅ |
+| 2 | 🆕 浚宇的视频会议 | `obcnoc65632h919qf4854j23` | 17:37 | 20 分 54 秒 | ✅ |
+| 3 | 🆕 浚宇的视频会议 | `obcnn45mbf81ux86a166mmgk` | 09:55 | 11 分 23 秒 | ✅ |
 
 ### 2026-08-26 (周三) — 2 场
 
 | # | 标题 | Token | 开始时间 | 时长 | 状态 |
 |---|------|-------|----------|------|------|
-| 1 | 🆕 萌酱的视频会议 | `obcnno349244q7h129wt3x1l` | 18:38 | 40 分 16 秒 | ✅ |
-| 2 | 🆕 浚宇的视频会议 | `obcnnf4z6ejbs2x1gh6h9667` | 09:20 | 18 分 24 秒 | ✅ |
+| 1 | 萌酱的视频会议 | `obcnno349244q7h129wt3x1l` | 18:38 | 40 分 16 秒 | ✅ |
+| 2 | 浚宇的视频会议 | `obcnnf4z6ejbs2x1gh6h9667` | 09:20 | 18 分 24 秒 | ✅ |
 
 ### 2026-08-25 (周二) — 3 场
 
@@ -69,19 +78,15 @@ _今日暂无妙记。_
 | 4 | 浚宇的视频会议 | `obcnjz449f6o6t4c782739rc` | 09:19 | 29 分 26 秒 | ✅ |
 | 5 | 浚宇的视频会议 | `obcnjq28iu5q9ttdpry8ic6i` | 00:30 | 32 分 19 秒 | ✅ |
 
-### 2026-08-20 (周四) — 2 场
-
-| # | 标题 | Token | 开始时间 | 时长 | 状态 |
-|---|------|-------|----------|------|------|
-| 1 | 浚宇的视频会议 | `obcnjpwcp9lq59h313t948z2` | 23:42 | 44 分 50 秒 | ✅ |
-| 2 | 浚宇的视频会议 | `obcni276t4u9qx5887511v65` | 00:38 | 3 小时 3 分 11 秒 | ✅ |
-
 ## 链接速查
 
 | 标题 | 链接 |
 |------|------|
-| 🆕 萌酱的视频会议 | https://n1i39rxvobb.feishu.cn/minutes/obcnno349244q7h129wt3x1l |
-| 🆕 浚宇的视频会议 | https://rcnsiaef7x5y.feishu.cn/minutes/obcnnf4z6ejbs2x1gh6h9667 |
+| 🆕 浚宇的视频会议 | https://rcnsiaef7x5y.feishu.cn/minutes/obcnodwjvntv3v92n4852e38 |
+| 🆕 浚宇的视频会议 | https://rcnsiaef7x5y.feishu.cn/minutes/obcnoc65632h919qf4854j23 |
+| 🆕 浚宇的视频会议 | https://rcnsiaef7x5y.feishu.cn/minutes/obcnn45mbf81ux86a166mmgk |
+| 萌酱的视频会议 | https://n1i39rxvobb.feishu.cn/minutes/obcnno349244q7h129wt3x1l |
+| 浚宇的视频会议 | https://rcnsiaef7x5y.feishu.cn/minutes/obcnnf4z6ejbs2x1gh6h9667 |
 | 浚宇的视频会议 | https://rcnsiaef7x5y.feishu.cn/minutes/obcnm262h59ri596lp455cp8 |
 | 萌酱的视频会议 | https://n1i39rxvobb.feishu.cn/minutes/obcnmz7w93qve67vd7eiz976 |
 | 后来之地-教练对话的体验-小林 | https://rcnsiaef7x5y.feishu.cn/minutes/obcnmqaue74ge63t7t5nnj3b |
@@ -99,5 +104,3 @@ _今日暂无妙记。_
 | C-芯流北京站-主持人串稿 | https://rcnsiaef7x5y.feishu.cn/minutes/obcnj24dsbst29y24ys9tq85 |
 | 浚宇的视频会议 | https://rcnsiaef7x5y.feishu.cn/minutes/obcnjz449f6o6t4c782739rc |
 | 浚宇的视频会议 | https://rcnsiaef7x5y.feishu.cn/minutes/obcnjq28iu5q9ttdpry8ic6i |
-| 浚宇的视频会议 | https://rcnsiaef7x5y.feishu.cn/minutes/obcnjpwcp9lq59h313t948z2 |
-| 浚宇的视频会议 | https://rcnsiaef7x5y.feishu.cn/minutes/obcni276t4u9qx5887511v65 |
