@@ -1,7 +1,7 @@
 # 飞书妙记索引
 
-> 最后更新: 2026-08-29 (cron: minutes-index-daily-sync)
-> 数据范围: 近7天 (2026-08-22 ~ 2026-08-29)
+> 最后更新: 2026-08-30 (cron: minutes-index-daily-sync)
+> 数据范围: 近7天 (2026-08-23 ~ 2026-08-30)
 > 搜索身份: user (浚宇)
 
 ## 统计概览
@@ -10,20 +10,26 @@
 |------|------|
 | 近7天总数 | 18 |
 | 近24h新增 | 1 |
-| 新增明细 | `obcnosp2679ldpcvx576754y` — 浚宇的视频会议 (2026-08-28 09:10:40, 9 分 12 秒) |
-| 搜索时间 | 2026-08-29 |
+| 新增明细 | `obcnpi9e49858759ebd1x269` — 康康-交流 (2026-08-29 10:00:36, 1 小时 20 分 17 秒) |
+| 搜索时间 | 2026-08-30 |
 
 ## 近7天妙记列表
 
-### 2026-08-29 (周六) — 0 场
+### 2026-08-30 (周日) — 0 场
 
 _今日暂无妙记。_
+
+### 2026-08-29 (周六) — 1 场
+
+| # | 标题 | Token | 开始时间 | 时长 | 状态 |
+|---|------|-------|----------|------|------|
+| 1 | 🆕 康康-交流 | `obcnpi9e49858759ebd1x269` | 10:00 | 1 小时 20 分 17 秒 | ✅ |
 
 ### 2026-08-28 (周五) — 1 场
 
 | # | 标题 | Token | 开始时间 | 时长 | 状态 |
 |---|------|-------|----------|------|------|
-| 1 | 🆕 浚宇的视频会议 | `obcnosp2679ldpcvx576754y` | 09:10 | 9 分 12 秒 | ✅ |
+| 1 | 浚宇的视频会议 | `obcnosp2679ldpcvx576754y` | 09:10 | 9 分 12 秒 | ✅ |
 
 ### 2026-08-27 (周四) — 3 场
 
@@ -66,17 +72,12 @@ _今日暂无妙记。_
 | 1 | 萌酱的视频会议 | `obcnlr7iai65aw71k8p16u5n` | 23:55 | 1 小时 30 分 34 秒 | ✅ |
 | 2 | 萌酱的视频会议 | `obcnk412weibg243pmpc93f1` | 00:18 | 28 分 29 秒 | ✅ |
 
-### 2026-08-22 (周六) — 1 场
-
-| # | 标题 | Token | 开始时间 | 时长 | 状态 |
-|---|------|-------|----------|------|------|
-| 1 | Maggie-沟通上海之行 | `obcnk3bgb18ph7k98w2tnh5a` | 23:32 | 44 分 6 秒 | ✅ |
-
 ## 链接速查
 
 | 标题 | 链接 |
 |------|------|
-| 🆕 浚宇的视频会议 | https://rcnsiaef7x5y.feishu.cn/minutes/obcnosp2679ldpcvx576754y |
+| 🆕 康康-交流 | https://rcnsiaef7x5y.feishu.cn/minutes/obcnpi9e49858759ebd1x269 |
+| 浚宇的视频会议 | https://rcnsiaef7x5y.feishu.cn/minutes/obcnosp2679ldpcvx576754y |
 | 浚宇的视频会议 | https://rcnsiaef7x5y.feishu.cn/minutes/obcnodwjvntv3v92n4852e38 |
 | 浚宇的视频会议 | https://rcnsiaef7x5y.feishu.cn/minutes/obcnoc65632h919qf4854j23 |
 | 浚宇的视频会议 | https://rcnsiaef7x5y.feishu.cn/minutes/obcnn45mbf81ux86a166mmgk |
@@ -93,4 +94,3 @@ _今日暂无妙记。_
 | 康康-沟通交流 | https://rcnsiaef7x5y.feishu.cn/minutes/obcnlz366t95zd6ungys4q6g |
 | 萌酱的视频会议 | https://n1i39rxvobb.feishu.cn/minutes/obcnlr7iai65aw71k8p16u5n |
 | 萌酱的视频会议 | https://n1i39rxvobb.feishu.cn/minutes/obcnk412weibg243pmpc93f1 |
-| Maggie-沟通上海之行 | https://rcnsiaef7x5y.feishu.cn/minutes/obcnk3bgb18ph7k98w2tnh5a |
