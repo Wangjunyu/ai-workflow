@@ -1,6 +1,6 @@
 # 📋 飞书群聊索引
 
-> 最后更新: 2026-08-31
+> 最后更新: 2026-09-01
 > 数据源: `lark-cli im +chat-list --as user --sort-type ByActiveTimeDesc`
 
 ## 统计概览
@@ -24,18 +24,18 @@
 
 | # | 群名 | chat_id | 类型 | 内外 | 免@ |
 |---|------|---------|------|------|-----|
-| 1 | 【5群】AutoClaw Bots 用户群 | `oc_c7891ec18b28d6ebc79ad3c0204680bd` | 群聊 | 外部 |     |
-| 2 | 开学典礼-AI agent专项组 | `oc_09149fb078620f461b676bbdd1549acf` | 群聊 | 外部 |     |
-| 3 | 飞书 CLI 交流互助群（2 群） ｜Lark CLI Communication & Support (Group2) | `oc_b12927e59ee30de4fbc4b8b0d5adfc96` | 话题 | 外部 |     |
-| 4 | 多维表格 Maker 大本营｜3群 | `oc_266c65b3e698e2e44992979d68b2c99b` | 群聊 | 外部 |     |
-| 5 | 文件传输助手 | `oc_3edc92314bc3da8ce71a099d210daf08` | 群聊 | 外部 |     |
-| 6 | 风险预警 | `oc_5b2ba5c6dbedd2726379ae6a96881096` | 话题 | 外部 |     |
-| 7 | AI时代超级个体修炼群③ | `oc_2bfc02063ccd1a97e74ea139ca23fae6` | 群聊 | 外部 |     |
-| 8 | 多维表格应用市场 - 开发者反馈群 | `oc_af0434db67e6b561fb0a4370d54cc44f` | 话题 | 外部 |     |
-| 9 | 康康陪跑-6.4-9.3 | `oc_227dda7fd76cf0004921a079e09d1823` | 群聊 | 外部 |     |
-| 10 | AI Builder Demo Day | `oc_896773b99ac9f48731afd87de40159bb` | 群聊 | 外部 |     |
-| 11 | 小肥肥护卫队 | `oc_3b49ff0064d823d7464900efb051193a` | 群聊 | 外部 |     |
-| 12 | 浚宇, 曾梦琪 | `oc_3215aa4540575e778c15ceb6dc2569e8` | 群聊 | 外部 |     |
+| 1 | 多维表格 Maker 大本营｜3群 | `oc_266c65b3e698e2e44992979d68b2c99b` | 群聊 | 外部 |     |
+| 2 | 【5群】AutoClaw Bots 用户群 | `oc_c7891ec18b28d6ebc79ad3c0204680bd` | 群聊 | 外部 |     |
+| 3 | 日常推进 | `oc_3215aa4540575e778c15ceb6dc2569e8` | 群聊 | 外部 |     |
+| 4 | 开学典礼-AI agent专项组 | `oc_09149fb078620f461b676bbdd1549acf` | 群聊 | 外部 |     |
+| 5 | AI时代超级个体修炼群③ | `oc_2bfc02063ccd1a97e74ea139ca23fae6` | 群聊 | 外部 |     |
+| 6 | 飞书 CLI 交流互助群（2 群） ｜Lark CLI Communication & Support (Group2) | `oc_b12927e59ee30de4fbc4b8b0d5adfc96` | 话题 | 外部 |     |
+| 7 | 风险预警 | `oc_5b2ba5c6dbedd2726379ae6a96881096` | 话题 | 外部 |     |
+| 8 | 文件传输助手 | `oc_3edc92314bc3da8ce71a099d210daf08` | 群聊 | 外部 |     |
+| 9 | 多维表格应用市场 - 开发者反馈群 | `oc_af0434db67e6b561fb0a4370d54cc44f` | 话题 | 外部 |     |
+| 10 | 康康陪跑-6.4-9.3 | `oc_227dda7fd76cf0004921a079e09d1823` | 群聊 | 外部 |     |
+| 11 | AI Builder Demo Day | `oc_896773b99ac9f48731afd87de40159bb` | 群聊 | 外部 |     |
+| 12 | 小肥肥护卫队 | `oc_3b49ff0064d823d7464900efb051193a` | 群聊 | 外部 |     |
 | 13 | 浚宇's Feishu Assistant | `oc_e14e90ee02a9116669456b8e5dc01dba` | 群聊 | 外部 |     |
 | 14 | 星星一起搞事情 | `oc_8f82557b9650b4cfdda5f188b189341f` | 群聊 | 外部 |     |
 | 15 | Inbox | `oc_85ec86561823e6c7b4c3ca8a07176569` | 话题 | 内部 | ✅  |
