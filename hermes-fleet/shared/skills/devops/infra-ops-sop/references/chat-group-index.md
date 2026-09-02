@@ -1,6 +1,6 @@
 # 📋 飞书群聊索引
 
-> 最后更新: 2026-09-02
+> 最后更新: 2026-09-03
 > 数据源: `lark-cli im +chat-list --as user --sort-type ByActiveTimeDesc`
 
 ## 统计概览
@@ -24,13 +24,13 @@
 
 | # | 群名 | chat_id | 类型 | 内外 | 免@ |
 |---|------|---------|------|------|-----|
-| 1 | 飞书 CLI 交流互助群（2 群） ｜Lark CLI Communication & Support (Group2) | `oc_b12927e59ee30de4fbc4b8b0d5adfc96` | 话题 | 外部 |     |
-| 2 | 【5群】AutoClaw Bots 用户群 | `oc_c7891ec18b28d6ebc79ad3c0204680bd` | 群聊 | 外部 |     |
+| 1 | 【5群】AutoClaw Bots 用户群 | `oc_c7891ec18b28d6ebc79ad3c0204680bd` | 群聊 | 外部 |     |
+| 2 | 日常推进 | `oc_3215aa4540575e778c15ceb6dc2569e8` | 群聊 | 外部 |     |
 | 3 | AI Builder Demo Day | `oc_896773b99ac9f48731afd87de40159bb` | 群聊 | 外部 |     |
-| 4 | 【服务群】早日退休（FP5VP898O5L） | `oc_fda3f4e69095a95f7be5545628364832` | 群聊 | 外部 |     |
-| 5 | 日常推进 | `oc_3215aa4540575e778c15ceb6dc2569e8` | 群聊 | 外部 |     |
-| 6 | 文件传输助手 | `oc_3edc92314bc3da8ce71a099d210daf08` | 群聊 | 外部 |     |
-| 7 | 多维表格 Maker 大本营｜3群 | `oc_266c65b3e698e2e44992979d68b2c99b` | 群聊 | 外部 |     |
+| 4 | 飞书 CLI 交流互助群（2 群） ｜Lark CLI Communication & Support (Group2) | `oc_b12927e59ee30de4fbc4b8b0d5adfc96` | 话题 | 外部 |     |
+| 5 | 多维表格 Maker 大本营｜3群 | `oc_266c65b3e698e2e44992979d68b2c99b` | 群聊 | 外部 |     |
+| 6 | 【服务群】早日退休（FP5VP898O5L） | `oc_fda3f4e69095a95f7be5545628364832` | 群聊 | 外部 |     |
+| 7 | 文件传输助手 | `oc_3edc92314bc3da8ce71a099d210daf08` | 群聊 | 外部 |     |
 | 8 | 开学典礼-AI agent专项组 | `oc_09149fb078620f461b676bbdd1549acf` | 群聊 | 外部 |     |
 | 9 | AI时代超级个体修炼群③ | `oc_2bfc02063ccd1a97e74ea139ca23fae6` | 群聊 | 外部 |     |
 | 10 | 风险预警 | `oc_5b2ba5c6dbedd2726379ae6a96881096` | 话题 | 外部 |     |
